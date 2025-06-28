@@ -290,6 +290,7 @@ United States,Alabama,2024-12-01,12277.28,4228.19,344.39
 United States,Alabama,2025-01-01,13861.86,5178.73,373.6
 United States,Alabama,2025-02-01,10453.48,3629.94,347.25
 United States,Alabama,2025-03-01,10399.45,3681.54,354.01
+United States,Alabama,2025-04-01,10242.19,3675.73,358.88
 United States,Alaska,2001-01-01,590.14,270.82,458.91
 United States,Alaska,2001-02-01,546.17,257.7,471.83
 United States,Alaska,2001-03-01,587.11,277.45,472.57
@@ -581,6 +582,7 @@ United States,Alaska,2024-12-01,571.42,229.74,402.05
 United States,Alaska,2025-01-01,586.3,243.73,415.71
 United States,Alaska,2025-02-01,486.09,209.02,430.0
 United States,Alaska,2025-03-01,461.08,188.32,408.43
+United States,Alaska,2025-04-01,478.15,181.58,379.76
 United States,Arizona,2001-01-01,7574.37,3271.01,431.85
 United States,Arizona,2001-02-01,6617.11,2917.14,440.85
 United States,Arizona,2001-03-01,7326.41,2881.6,393.32
@@ -872,6 +874,7 @@ United States,Arizona,2024-12-01,9857.3,2957.68,300.05
 United States,Arizona,2025-01-01,9857.97,2887.05,292.87
 United States,Arizona,2025-02-01,8344.59,2285.4,273.88
 United States,Arizona,2025-03-01,8234.84,1863.17,226.26
+United States,Arizona,2025-04-01,7976.68,1849.89,231.91
 United States,Arkansas,2001-01-01,3903.87,1994.31,510.86
 United States,Arkansas,2001-02-01,3372.72,1453.98,431.1
 United States,Arkansas,2001-03-01,3125.86,1347.92,431.22
@@ -1163,6 +1166,7 @@ United States,Arkansas,2024-12-01,4514.4,1758.53,389.54
 United States,Arkansas,2025-01-01,6010.79,2816.73,468.61
 United States,Arkansas,2025-02-01,4790.01,2024.99,422.75
 United States,Arkansas,2025-03-01,4558.38,1582.69,347.2
+United States,Arkansas,2025-04-01,4000.74,1144.68,286.12
 United States,California,2001-01-01,16450.03,5646.81,343.27
 United States,California,2001-02-01,14225.07,4887.11,343.56
 United States,California,2001-03-01,15685.89,5099.64,325.11
@@ -1454,6 +1458,7 @@ United States,California,2024-12-01,17526.74,4163.8,237.57
 United States,California,2025-01-01,18152.51,3998.02,220.25
 United States,California,2025-02-01,17104.45,3152.91,184.33
 United States,California,2025-03-01,18260.71,2559.06,140.14
+United States,California,2025-04-01,18940.17,2448.46,129.27
 United States,Colorado,2001-01-01,4168.62,3064.58,735.16
 United States,Colorado,2001-02-01,3782.55,2773.62,733.27
 United States,Colorado,2001-03-01,3847.57,2793.54,726.05
@@ -1745,6 +1750,7 @@ United States,Colorado,2024-12-01,4894.2,1912.4,390.75
 United States,Colorado,2025-01-01,5418.74,2217.86,409.29
 United States,Colorado,2025-02-01,4627.92,1826.88,394.75
 United States,Colorado,2025-03-01,4527.69,1529.59,337.83
+United States,Colorado,2025-04-01,4682.37,1631.97,348.54
 United States,Connecticut,2001-01-01,2930.45,1063.76,363.0
 United States,Connecticut,2001-02-01,1852.62,809.57,436.99
 United States,Connecticut,2001-03-01,2386.26,1134.58,475.46
@@ -2036,6 +2042,7 @@ United States,Connecticut,2024-12-01,4131.19,1208.68,292.57
 United States,Connecticut,2025-01-01,4000.76,1152.11,287.97
 United States,Connecticut,2025-02-01,3677.62,1044.64,284.05
 United States,Connecticut,2025-03-01,3986.73,1089.05,273.17
+United States,Connecticut,2025-04-01,2993.68,910.06,303.99
 United States,Delaware,2001-01-01,624.98,492.9,788.67
 United States,Delaware,2001-02-01,519.88,410.88,790.34
 United States,Delaware,2001-03-01,863.08,630.31,730.3
@@ -2327,6 +2334,7 @@ United States,Delaware,2024-12-01,377.39,197.59,523.57
 United States,Delaware,2025-01-01,598.85,358.36,598.41
 United States,Delaware,2025-02-01,388.15,203.27,523.69
 United States,Delaware,2025-03-01,202.27,83.79,414.25
+United States,Delaware,2025-04-01,471.15,215.35,457.07
 United States,Florida,2001-01-01,16790.96,9898.47,589.51
 United States,Florida,2001-02-01,12658.76,7146.07,564.52
 United States,Florida,2001-03-01,13995.75,7693.18,549.68
@@ -2618,6 +2626,7 @@ United States,Florida,2024-12-01,18772.18,7239.3,385.64
 United States,Florida,2025-01-01,20780.7,8378.9,403.21
 United States,Florida,2025-02-01,17861.41,6700.41,375.13
 United States,Florida,2025-03-01,19077.93,7147.67,374.66
+United States,Florida,2025-04-01,20911.74,7887.92,377.2
 United States,Georgia,2001-01-01,11046.48,6218.15,562.91
 United States,Georgia,2001-02-01,8301.33,4264.14,513.67
 United States,Georgia,2001-03-01,9814.99,5194.34,529.23
@@ -2909,6 +2918,7 @@ United States,Georgia,2024-12-01,11585.66,3517.22,303.58
 United States,Georgia,2025-01-01,13390.05,4671.64,348.89
 United States,Georgia,2025-02-01,10482.79,3179.29,303.29
 United States,Georgia,2025-03-01,10031.68,3035.91,302.63
+United States,Georgia,2025-04-01,11437.67,3414.13,298.5
 United States,Hawaii,2001-01-01,929.24,635.02,683.38
 United States,Hawaii,2001-02-01,805.51,551.5,684.66
 United States,Hawaii,2001-03-01,877.73,604.9,689.16
@@ -3200,6 +3210,7 @@ United States,Hawaii,2024-12-01,920.35,476.15,517.36
 United States,Hawaii,2025-01-01,872.98,447.68,512.82
 United States,Hawaii,2025-02-01,782.96,391.71,500.29
 United States,Hawaii,2025-03-01,885.65,412.73,466.02
+United States,Hawaii,2025-04-01,899.58,418.91,465.67
 United States,Idaho,2001-01-01,605.34,43.9,72.52
 United States,Idaho,2001-02-01,503.37,39.96,79.39
 United States,Idaho,2001-03-01,595.21,45.33,76.16
@@ -3491,6 +3502,7 @@ United States,Idaho,2024-12-01,1715.04,295.93,172.55
 United States,Idaho,2025-01-01,1793.04,310.62,173.24
 United States,Idaho,2025-02-01,1441.5,245.42,170.25
 United States,Idaho,2025-03-01,1513.46,166.47,109.99
+United States,Idaho,2025-04-01,1519.66,133.7,87.98
 United States,Illinois,2001-01-01,16041.05,6398.85,398.91
 United States,Illinois,2001-02-01,13915.43,5440.94,391.0
 United States,Illinois,2001-03-01,14884.23,5486.06,368.58
@@ -3782,6 +3794,7 @@ United States,Illinois,2024-12-01,16499.14,3205.43,194.28
 United States,Illinois,2025-01-01,18190.93,4292.59,235.97
 United States,Illinois,2025-02-01,15824.61,3783.64,239.1
 United States,Illinois,2025-03-01,15777.42,2634.71,166.99
+United States,Illinois,2025-04-01,15046.57,2678.61,178.02
 United States,Indiana,2001-01-01,10936.85,8841.0,808.37
 United States,Indiana,2001-02-01,9651.01,7776.73,805.79
 United States,Indiana,2001-03-01,9950.71,8038.9,807.87
@@ -4073,6 +4086,7 @@ United States,Indiana,2024-12-01,9287.39,5420.51,583.64
 United States,Indiana,2025-01-01,11308.63,6914.94,611.48
 United States,Indiana,2025-02-01,9085.6,5360.06,589.95
 United States,Indiana,2025-03-01,8891.16,4737.79,532.87
+United States,Indiana,2025-04-01,7854.58,4162.48,529.94
 United States,Iowa,2001-01-01,3762.17,2673.14,710.53
 United States,Iowa,2001-02-01,3244.42,2271.7,700.19
 United States,Iowa,2001-03-01,3577.31,2497.74,698.22
@@ -4364,6 +4378,7 @@ United States,Iowa,2024-12-01,6440.16,1773.63,275.4
 United States,Iowa,2025-01-01,7167.77,1720.76,240.07
 United States,Iowa,2025-02-01,6536.37,1604.56,245.48
 United States,Iowa,2025-03-01,6303.64,777.46,123.34
+United States,Iowa,2025-04-01,6080.04,890.22,146.42
 United States,Kansas,2001-01-01,4108.05,2617.84,637.25
 United States,Kansas,2001-02-01,3273.97,2007.62,613.21
 United States,Kansas,2001-03-01,3339.53,2027.28,607.06
@@ -4655,6 +4670,7 @@ United States,Kansas,2024-12-01,5001.49,1315.93,263.11
 United States,Kansas,2025-01-01,5641.24,1946.24,345.0
 United States,Kansas,2025-02-01,5168.69,1484.03,287.12
 United States,Kansas,2025-03-01,5192.48,847.59,163.23
+United States,Kansas,2025-04-01,4979.67,866.71,174.05
 United States,Kentucky,2001-01-01,8118.22,6494.14,799.95
 United States,Kentucky,2001-02-01,7533.75,6038.02,801.46
 United States,Kentucky,2001-03-01,8201.58,6519.3,794.88
@@ -4946,6 +4962,7 @@ United States,Kentucky,2024-12-01,6079.48,4153.89,683.26
 United States,Kentucky,2025-01-01,7788.51,5349.75,686.88
 United States,Kentucky,2025-02-01,6149.72,4270.16,694.37
 United States,Kentucky,2025-03-01,5195.49,3559.85,685.18
+United States,Kentucky,2025-04-01,4802.07,3276.44,682.3
 United States,Louisiana,2001-01-01,7434.71,3702.54,498.01
 United States,Louisiana,2001-02-01,5958.76,2761.27,463.4
 United States,Louisiana,2001-03-01,6163.03,2638.72,428.15
@@ -5237,6 +5254,7 @@ United States,Louisiana,2024-12-01,7742.57,3139.08,405.43
 United States,Louisiana,2025-01-01,8884.11,3766.01,423.9
 United States,Louisiana,2025-02-01,7188.9,3136.91,436.36
 United States,Louisiana,2025-03-01,6743.71,2806.64,416.19
+United States,Louisiana,2025-04-01,7457.76,3063.91,410.84
 United States,Maine,2001-01-01,1652.25,714.64,432.53
 United States,Maine,2001-02-01,1465.79,614.14,418.98
 United States,Maine,2001-03-01,1506.75,593.22,393.71
@@ -5528,6 +5546,7 @@ United States,Maine,2024-12-01,1129.06,193.4,171.29
 United States,Maine,2025-01-01,1291.82,245.49,190.03
 United States,Maine,2025-02-01,1210.45,237.73,196.4
 United States,Maine,2025-03-01,1428.26,270.63,189.48
+United States,Maine,2025-04-01,1183.24,186.36,157.5
 United States,Maryland,2001-01-01,4602.54,2588.39,562.38
 United States,Maryland,2001-02-01,4182.08,2291.22,547.87
 United States,Maryland,2001-03-01,3597.13,1876.98,521.8
@@ -5819,6 +5838,7 @@ United States,Maryland,2024-12-01,3056.93,809.01,264.65
 United States,Maryland,2025-01-01,3554.85,1129.55,317.75
 United States,Maryland,2025-02-01,2683.67,682.61,254.36
 United States,Maryland,2025-03-01,2573.29,735.4,285.78
+United States,Maryland,2025-04-01,3173.48,715.47,225.45
 United States,Massachusetts,2001-01-01,3803.96,2237.82,588.29
 United States,Massachusetts,2001-02-01,3147.79,1821.44,578.64
 United States,Massachusetts,2001-03-01,3598.58,2045.44,568.4
@@ -6110,6 +6130,7 @@ United States,Massachusetts,2024-12-01,1914.47,767.49,400.89
 United States,Massachusetts,2025-01-01,2047.35,829.02,404.92
 United States,Massachusetts,2025-02-01,1872.69,705.98,376.99
 United States,Massachusetts,2025-03-01,1992.72,664.96,333.7
+United States,Massachusetts,2025-04-01,1904.13,597.66,313.88
 United States,Michigan,2001-01-01,10182.59,5660.12,555.86
 United States,Michigan,2001-02-01,8870.67,4828.27,544.3
 United States,Michigan,2001-03-01,9680.94,5139.3,530.87
@@ -6401,6 +6422,7 @@ United States,Michigan,2024-12-01,10816.88,4371.05,404.1
 United States,Michigan,2025-01-01,11693.55,4767.67,407.72
 United States,Michigan,2025-02-01,10152.38,4265.52,420.15
 United States,Michigan,2025-03-01,9820.38,3733.47,380.18
+United States,Michigan,2025-04-01,9409.46,3937.1,418.42
 United States,Minnesota,2001-01-01,4293.01,2465.87,574.39
 United States,Minnesota,2001-02-01,3799.86,2345.37,617.23
 United States,Minnesota,2001-03-01,3615.57,2126.75,588.22
@@ -6692,6 +6714,7 @@ United States,Minnesota,2024-12-01,5110.0,1736.22,339.77
 United States,Minnesota,2025-01-01,5675.45,1865.21,328.65
 United States,Minnesota,2025-02-01,5096.53,1583.67,310.74
 United States,Minnesota,2025-03-01,5063.61,1279.14,252.61
+United States,Minnesota,2025-04-01,4554.74,1101.17,241.76
 United States,Mississippi,2001-01-01,3563.61,1923.64,539.8
 United States,Mississippi,2001-02-01,2743.2,1392.38,507.58
 United States,Mississippi,2001-03-01,3642.72,2002.49,549.72
@@ -6983,6 +7006,7 @@ United States,Mississippi,2024-12-01,5870.73,2386.59,406.52
 United States,Mississippi,2025-01-01,6584.96,2746.36,417.07
 United States,Mississippi,2025-02-01,5416.5,2310.67,426.6
 United States,Mississippi,2025-03-01,6376.84,2555.31,400.72
+United States,Mississippi,2025-04-01,5730.56,2283.27,398.44
 United States,Missouri,2001-01-01,7089.8,5086.73,717.47
 United States,Missouri,2001-02-01,6176.02,4335.03,701.91
 United States,Missouri,2001-03-01,5866.14,4067.42,693.37
@@ -7274,6 +7298,7 @@ United States,Missouri,2024-12-01,5871.92,3334.5,567.87
 United States,Missouri,2025-01-01,6658.1,3822.45,574.11
 United States,Missouri,2025-02-01,6609.74,3884.15,587.64
 United States,Missouri,2025-03-01,5844.29,3123.5,534.45
+United States,Missouri,2025-04-01,5193.59,3192.85,614.77
 United States,Montana,2001-01-01,2260.43,1317.75,582.96
 United States,Montana,2001-02-01,2071.6,1218.63,588.26
 United States,Montana,2001-03-01,1883.5,1168.21,620.23
@@ -7565,6 +7590,7 @@ United States,Montana,2024-12-01,2793.33,1016.17,363.78
 United States,Montana,2025-01-01,2804.17,919.95,328.07
 United States,Montana,2025-02-01,2293.24,872.24,380.35
 United States,Montana,2025-03-01,2278.21,764.01,335.36
+United States,Montana,2025-04-01,2001.33,479.25,239.47
 United States,Nebraska,2001-01-01,2900.28,1552.9,535.43
 United States,Nebraska,2001-02-01,2426.13,1263.05,520.6
 United States,Nebraska,2001-03-01,2250.95,1519.27,674.95
@@ -7856,6 +7882,7 @@ United States,Nebraska,2024-12-01,3527.68,1439.5,408.06
 United States,Nebraska,2025-01-01,3869.61,1534.47,396.54
 United States,Nebraska,2025-02-01,3335.8,1343.68,402.81
 United States,Nebraska,2025-03-01,2981.07,796.94,267.33
+United States,Nebraska,2025-04-01,2518.96,568.75,225.79
 United States,Nevada,2001-01-01,2965.83,1793.97,604.88
 United States,Nevada,2001-02-01,2968.73,1794.76,604.56
 United States,Nevada,2001-03-01,3040.2,1809.89,595.32
@@ -8147,6 +8174,7 @@ United States,Nevada,2024-12-01,3321.15,1108.71,333.83
 United States,Nevada,2025-01-01,3472.19,1141.27,328.69
 United States,Nevada,2025-02-01,3147.71,949.84,301.76
 United States,Nevada,2025-03-01,3578.69,973.19,271.94
+United States,Nevada,2025-04-01,3646.11,858.7,235.51
 United States,New Hampshire,2001-01-01,652.36,350.09,536.65
 United States,New Hampshire,2001-02-01,1280.19,307.24,240.0
 United States,New Hampshire,2001-03-01,958.48,300.84,313.87
@@ -8438,6 +8466,7 @@ United States,New Hampshire,2024-12-01,1468.56,241.27,164.29
 United States,New Hampshire,2025-01-01,1715.9,325.53,189.71
 United States,New Hampshire,2025-02-01,1459.49,218.08,149.42
 United States,New Hampshire,2025-03-01,1408.73,124.26,88.21
+United States,New Hampshire,2025-04-01,1553.74,219.6,141.34
 United States,New Jersey,2001-01-01,5306.84,1688.72,318.22
 United States,New Jersey,2001-02-01,4707.48,1394.44,296.22
 United States,New Jersey,2001-03-01,4947.87,1219.49,246.47
@@ -8729,6 +8758,7 @@ United States,New Jersey,2024-12-01,5182.07,1153.17,222.53
 United States,New Jersey,2025-01-01,4807.8,1014.73,211.06
 United States,New Jersey,2025-02-01,4672.49,1006.94,215.5
 United States,New Jersey,2025-03-01,4895.39,932.0,190.38
+United States,New Jersey,2025-04-01,5514.29,1530.97,277.64
 United States,New Mexico,2001-01-01,2920.67,2293.77,785.36
 United States,New Mexico,2001-02-01,2714.85,2084.43,767.79
 United States,New Mexico,2001-03-01,2618.91,1979.56,755.87
@@ -9020,6 +9050,7 @@ United States,New Mexico,2024-12-01,3336.18,864.62,259.17
 United States,New Mexico,2025-01-01,3086.8,781.05,253.03
 United States,New Mexico,2025-02-01,2632.42,579.65,220.2
 United States,New Mexico,2025-03-01,3435.71,811.32,236.14
+United States,New Mexico,2025-04-01,3507.36,1070.36,305.18
 United States,New York,2001-01-01,12622.13,5042.13,399.47
 United States,New York,2001-02-01,11458.72,4185.33,365.25
 United States,New York,2001-03-01,12114.67,4500.14,371.46
@@ -9311,6 +9342,7 @@ United States,New York,2024-12-01,11605.14,2937.16,253.09
 United States,New York,2025-01-01,12101.4,3219.05,266.01
 United States,New York,2025-02-01,10583.77,2725.7,257.54
 United States,New York,2025-03-01,10723.43,2307.58,215.19
+United States,New York,2025-04-01,10330.61,2216.77,214.58
 United States,North Carolina,2001-01-01,10511.79,5622.94,534.92
 United States,North Carolina,2001-02-01,8862.02,4506.38,508.51
 United States,North Carolina,2001-03-01,9303.3,5387.89,579.14
@@ -9602,6 +9634,7 @@ United States,North Carolina,2024-12-01,11949.53,4040.26,338.11
 United States,North Carolina,2025-01-01,13974.47,5488.11,392.72
 United States,North Carolina,2025-02-01,10490.7,3261.36,310.88
 United States,North Carolina,2025-03-01,9176.69,2445.98,266.54
+United States,North Carolina,2025-04-01,9144.82,2328.78,254.66
 United States,North Dakota,2001-01-01,2751.37,2129.57,774.0
 United States,North Dakota,2001-02-01,2514.28,1956.9,778.31
 United States,North Dakota,2001-03-01,2691.02,2116.42,786.48
@@ -9893,6 +9926,7 @@ United States,North Dakota,2024-12-01,4180.72,2010.51,480.9
 United States,North Dakota,2025-01-01,4480.72,1968.05,439.23
 United States,North Dakota,2025-02-01,3823.39,1813.3,474.27
 United States,North Dakota,2025-03-01,3687.94,1570.46,425.84
+United States,North Dakota,2025-04-01,3135.29,1145.76,365.44
 United States,Ohio,2001-01-01,13162.53,9513.99,722.81
 United States,Ohio,2001-02-01,11161.7,8280.26,741.85
 United States,Ohio,2001-03-01,12107.83,9218.29,761.35
@@ -10184,6 +10218,7 @@ United States,Ohio,2024-12-01,13325.84,6541.0,490.85
 United States,Ohio,2025-01-01,14564.37,7367.81,505.88
 United States,Ohio,2025-02-01,12128.6,5952.93,490.82
 United States,Ohio,2025-03-01,11184.99,5541.0,495.4
+United States,Ohio,2025-04-01,8299.15,3998.85,481.84
 United States,Oklahoma,2001-01-01,4490.79,3174.51,706.89
 United States,Oklahoma,2001-02-01,4032.51,2764.96,685.67
 United States,Oklahoma,2001-03-01,3807.71,2467.97,648.15
@@ -10475,6 +10510,7 @@ United States,Oklahoma,2024-12-01,7517.43,2149.57,285.95
 United States,Oklahoma,2025-01-01,8291.08,2848.37,343.55
 United States,Oklahoma,2025-02-01,6840.8,1993.46,291.41
 United States,Oklahoma,2025-03-01,7000.79,1610.91,230.1
+United States,Oklahoma,2025-04-01,6367.57,1451.69,227.98
 United States,Oregon,2001-01-01,4150.33,853.41,205.63
 United States,Oregon,2001-02-01,3717.81,778.49,209.4
 United States,Oregon,2001-03-01,4208.54,860.97,204.58
@@ -10766,6 +10802,7 @@ United States,Oregon,2024-12-01,5875.94,1232.3,209.72
 United States,Oregon,2025-01-01,6008.77,1233.63,205.31
 United States,Oregon,2025-02-01,5194.21,1096.43,211.09
 United States,Oregon,2025-03-01,5601.12,828.95,148.0
+United States,Oregon,2025-04-01,4962.7,616.64,124.26
 United States,Pennsylvania,2001-01-01,18849.31,9579.24,508.2
 United States,Pennsylvania,2001-02-01,15044.07,7213.56,479.5
 United States,Pennsylvania,2001-03-01,16827.64,8554.42,508.36
@@ -11057,6 +11094,7 @@ United States,Pennsylvania,2024-12-01,22146.65,7774.86,351.06
 United States,Pennsylvania,2025-01-01,24413.5,9321.61,381.82
 United States,Pennsylvania,2025-02-01,21163.66,7702.32,363.94
 United States,Pennsylvania,2025-03-01,19816.41,6377.48,321.83
+United States,Pennsylvania,2025-04-01,17453.77,5780.34,331.18
 United States,Puerto Rico,2016-01-01,0.0,0.0,
 United States,Puerto Rico,2016-02-01,0.0,0.0,
 United States,Puerto Rico,2016-03-01,0.0,0.0,
@@ -11168,6 +11206,7 @@ United States,Puerto Rico,2024-12-01,1240.21,772.39,622.79
 United States,Puerto Rico,2025-01-01,1193.82,722.24,604.98
 United States,Puerto Rico,2025-02-01,1124.08,691.33,615.02
 United States,Puerto Rico,2025-03-01,1221.33,778.58,637.49
+United States,Puerto Rico,2025-04-01,1133.79,704.3,621.19
 United States,Rhode Island,2001-01-01,423.87,209.01,493.1
 United States,Rhode Island,2001-02-01,443.52,215.77,486.49
 United States,Rhode Island,2001-03-01,589.51,287.35,487.44
@@ -11459,6 +11498,7 @@ United States,Rhode Island,2024-12-01,694.91,307.71,442.81
 United States,Rhode Island,2025-01-01,699.87,302.5,432.22
 United States,Rhode Island,2025-02-01,618.3,262.44,424.45
 United States,Rhode Island,2025-03-01,648.75,264.48,407.68
+United States,Rhode Island,2025-04-01,719.64,295.78,411.01
 United States,South Carolina,2001-01-01,7645.81,3104.19,406.0
 United States,South Carolina,2001-02-01,6638.02,2582.5,389.05
 United States,South Carolina,2001-03-01,7385.44,2643.18,357.89
@@ -11750,6 +11790,7 @@ United States,South Carolina,2024-12-01,8743.68,2276.43,260.35
 United States,South Carolina,2025-01-01,9582.06,2871.05,299.63
 United States,South Carolina,2025-02-01,8165.53,2061.22,252.43
 United States,South Carolina,2025-03-01,8665.02,1914.82,220.98
+United States,South Carolina,2025-04-01,8502.12,1924.34,226.34
 United States,South Dakota,2001-01-01,628.37,292.7,465.81
 United States,South Dakota,2001-02-01,571.93,278.91,487.67
 United States,South Dakota,2001-03-01,601.31,298.27,496.03
@@ -12041,6 +12082,7 @@ United States,South Dakota,2024-12-01,1853.05,267.19,144.19
 United States,South Dakota,2025-01-01,2167.09,253.07,116.78
 United States,South Dakota,2025-02-01,1738.11,215.58,124.03
 United States,South Dakota,2025-03-01,1943.44,159.47,82.06
+United States,South Dakota,2025-04-01,1908.17,189.96,99.55
 United States,Tennessee,2001-01-01,9106.24,5002.29,549.33
 United States,Tennessee,2001-02-01,7453.65,3727.06,500.03
 United States,Tennessee,2001-03-01,8193.0,4155.87,507.25
@@ -12332,6 +12374,7 @@ United States,Tennessee,2024-12-01,6216.2,2123.41,341.59
 United States,Tennessee,2025-01-01,7018.39,2749.55,391.76
 United States,Tennessee,2025-02-01,5105.17,1759.89,344.73
 United States,Tennessee,2025-03-01,5249.45,1775.39,338.21
+United States,Tennessee,2025-04-01,4574.9,1724.11,376.86
 United States,Texas,2001-01-01,30920.64,17522.33,566.69
 United States,Texas,2001-02-01,25558.72,14399.9,563.41
 United States,Texas,2001-03-01,27478.97,15841.83,576.51
@@ -12623,6 +12666,7 @@ United States,Texas,2024-12-01,43978.02,15454.02,351.4
 United States,Texas,2025-01-01,50664.45,18830.22,371.67
 United States,Texas,2025-02-01,43505.62,14974.14,344.19
 United States,Texas,2025-03-01,43638.58,12367.83,283.42
+United States,Texas,2025-04-01,44170.61,12890.74,291.84
 United States,US Total,2001-01-01,331770.42,181782.37,547.92
 United States,US Total,2001-02-01,282305.52,151267.55,535.83
 United States,US Total,2001-03-01,300016.76,160139.01,533.77
@@ -12914,6 +12958,7 @@ United States,US Total,2024-12-01,366142.18,128485.59,350.92
 United States,US Total,2025-01-01,406485.89,151808.69,373.47
 United States,US Total,2025-02-01,344871.21,121461.69,352.19
 United States,US Total,2025-03-01,341722.11,104401.97,305.52
+United States,US Total,2025-04-01,330051.74,100191.59,303.56
 United States,Utah,2001-01-01,2957.24,2338.7,790.84
 United States,Utah,2001-02-01,2795.82,2202.46,787.77
 United States,Utah,2001-03-01,2435.36,1906.41,782.8
@@ -13205,6 +13250,7 @@ United States,Utah,2024-12-01,3333.15,2019.76,605.96
 United States,Utah,2025-01-01,3715.99,2292.97,617.06
 United States,Utah,2025-02-01,3400.02,2073.37,609.81
 United States,Utah,2025-03-01,3082.64,1769.18,573.92
+United States,Utah,2025-04-01,2293.93,1098.87,479.03
 United States,Vermont,2001-01-01,548.21,28.03,51.13
 United States,Vermont,2001-02-01,477.58,16.35,34.24
 United States,Vermont,2001-03-01,471.64,14.42,30.57
@@ -13496,6 +13542,7 @@ United States,Vermont,2024-12-01,227.92,15.85,69.54
 United States,Vermont,2025-01-01,246.75,16.83,68.21
 United States,Vermont,2025-02-01,208.26,14.37,69.0
 United States,Vermont,2025-03-01,252.35,12.64,50.09
+United States,Vermont,2025-04-01,211.33,5.92,28.01
 United States,Virginia,2001-01-01,7117.24,3569.5,501.53
 United States,Virginia,2001-02-01,5894.28,2932.36,497.49
 United States,Virginia,2001-03-01,6358.36,3353.24,527.38
@@ -13787,6 +13834,7 @@ United States,Virginia,2024-12-01,8533.28,2788.99,326.84
 United States,Virginia,2025-01-01,9929.47,3408.45,343.27
 United States,Virginia,2025-02-01,8896.14,2920.18,328.25
 United States,Virginia,2025-03-01,8569.92,2841.66,331.59
+United States,Virginia,2025-04-01,7100.73,1795.31,252.84
 United States,Washington,2001-01-01,8321.33,1382.2,166.1
 United States,Washington,2001-02-01,7092.16,1228.18,173.17
 United States,Washington,2001-03-01,7779.9,1332.05,171.22
@@ -14078,6 +14126,7 @@ United States,Washington,2024-12-01,9364.65,1206.93,128.88
 United States,Washington,2025-01-01,9805.14,1402.44,143.03
 United States,Washington,2025-02-01,7949.51,1178.48,148.25
 United States,Washington,2025-03-01,8717.34,1007.18,115.54
+United States,Washington,2025-04-01,8342.76,670.69,80.39
 United States,"Washington, D.C.",2001-01-01,9.25,6.48,700.54
 United States,"Washington, D.C.",2001-02-01,0.0,0.0,
 United States,"Washington, D.C.",2001-03-01,0.0,0.0,
@@ -14369,6 +14418,7 @@ United States,"Washington, D.C.",2024-12-01,36.87,7.42,201.25
 United States,"Washington, D.C.",2025-01-01,38.73,7.04,181.77
 United States,"Washington, D.C.",2025-02-01,38.46,7.0,182.01
 United States,"Washington, D.C.",2025-03-01,46.15,5.76,124.81
+United States,"Washington, D.C.",2025-04-01,41.7,2.75,65.95
 United States,West Virginia,2001-01-01,8653.39,7025.16,811.84
 United States,West Virginia,2001-02-01,7380.73,5951.62,806.37
 United States,West Virginia,2001-03-01,7040.69,5653.83,803.02
@@ -14660,6 +14710,7 @@ United States,West Virginia,2024-12-01,4347.45,3210.65,738.51
 United States,West Virginia,2025-01-01,5982.09,4512.98,754.42
 United States,West Virginia,2025-02-01,4649.35,3469.73,746.28
 United States,West Virginia,2025-03-01,2983.63,2069.38,693.58
+United States,West Virginia,2025-04-01,3975.78,2891.2,727.2
 United States,Wisconsin,2001-01-01,5342.1,3269.84,612.09
 United States,Wisconsin,2001-02-01,4566.88,2749.79,602.12
 United States,Wisconsin,2001-03-01,4732.83,2719.91,574.69
@@ -14951,6 +15002,7 @@ United States,Wisconsin,2024-12-01,6101.94,3105.12,508.87
 United States,Wisconsin,2025-01-01,6349.03,3261.67,513.73
 United States,Wisconsin,2025-02-01,5335.84,2675.32,501.39
 United States,Wisconsin,2025-03-01,4608.61,2110.28,457.9
+United States,Wisconsin,2025-04-01,4208.11,1831.49,435.23
 United States,Wyoming,2001-01-01,4020.68,3220.82,801.06
 United States,Wyoming,2001-02-01,3747.14,3006.01,802.21
 United States,Wyoming,2001-03-01,4093.37,3280.82,801.5
@@ -15242,3 +15294,4 @@ United States,Wyoming,2024-12-01,4359.16,2320.89,532.42
 United States,Wyoming,2025-01-01,4541.51,2461.15,541.92
 United States,Wyoming,2025-02-01,3944.25,2089.36,529.72
 United States,Wyoming,2025-03-01,3743.11,1870.48,499.71
+United States,Wyoming,2025-04-01,3240.12,1569.69,484.45
