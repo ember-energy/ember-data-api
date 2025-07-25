@@ -3191,6 +3191,18 @@ United States,Alabama,2025-04-01,Other Renewables,0.0,0.0,0.0,0.0
 United States,Alabama,2025-04-01,Renewables,1146.0,11.19,83.87,2.28
 United States,Alabama,2025-04-01,Solar,129.85,1.27,6.23,0.17
 United States,Alabama,2025-04-01,Wind and solar,129.85,1.27,6.23,0.17
+United States,Alabama,2025-05-01,Bioenergy,272.36,2.41,62.64,1.57
+United States,Alabama,2025-05-01,Clean,4511.65,39.93,129.94,3.26
+United States,Alabama,2025-05-01,Coal,1589.57,14.07,1303.45,32.75
+United States,Alabama,2025-05-01,Fossil,6787.85,60.07,3850.61,96.74
+United States,Alabama,2025-05-01,Gas,5198.28,46.0,2547.16,63.99
+United States,Alabama,2025-05-01,Hydro,1001.42,8.86,24.03,0.6
+United States,Alabama,2025-05-01,Nuclear,3115.12,27.57,37.38,0.94
+United States,Alabama,2025-05-01,Other Fossil,0.0,0.0,0.0,0.0
+United States,Alabama,2025-05-01,Other Renewables,0.0,0.0,0.0,0.0
+United States,Alabama,2025-05-01,Renewables,1396.53,12.36,92.56,2.32
+United States,Alabama,2025-05-01,Solar,122.75,1.09,5.89,0.15
+United States,Alabama,2025-05-01,Wind and solar,122.75,1.09,5.89,0.15
 United States,Alaska,2001-01-01,Clean,104.64,17.73,2.51,0.93
 United States,Alaska,2001-01-01,Coal,46.9,7.95,38.46,14.2
 United States,Alaska,2001-01-01,Fossil,485.5,82.28,268.31,99.07
@@ -6443,6 +6455,18 @@ United States,Alaska,2025-04-01,Renewables,191.35,40.01,5.28,2.9
 United States,Alaska,2025-04-01,Solar,2.92,0.61,0.14,0.08
 United States,Alaska,2025-04-01,Wind,12.31,2.57,0.14,0.07
 United States,Alaska,2025-04-01,Wind and solar,15.23,3.18,0.28,0.15
+United States,Alaska,2025-05-01,Bioenergy,3.21,0.67,0.74,0.4
+United States,Alaska,2025-05-01,Clean,187.2,39.2,5.1,2.75
+United States,Alaska,2025-05-01,Coal,76.22,15.96,62.5,33.67
+United States,Alaska,2025-05-01,Fossil,290.37,60.81,180.51,97.25
+United States,Alaska,2025-05-01,Gas,151.89,31.81,74.43,40.1
+United States,Alaska,2025-05-01,Hydro,169.88,35.57,4.08,2.2
+United States,Alaska,2025-05-01,Other Fossil,62.26,13.04,43.58,23.48
+United States,Alaska,2025-05-01,Other Renewables,0.0,0.0,0.0,0.0
+United States,Alaska,2025-05-01,Renewables,187.2,39.2,5.1,2.75
+United States,Alaska,2025-05-01,Solar,3.37,0.71,0.16,0.09
+United States,Alaska,2025-05-01,Wind,10.74,2.25,0.12,0.06
+United States,Alaska,2025-05-01,Wind and solar,14.11,2.96,0.28,0.15
 United States,Arizona,2001-01-01,Bioenergy,0.45,0.01,0.1,0.0
 United States,Arizona,2001-01-01,Clean,3360.48,44.38,47.95,1.46
 United States,Arizona,2001-01-01,Coal,3418.45,45.13,2803.13,85.7
@@ -9974,6 +9998,18 @@ United States,Arizona,2025-04-01,Renewables,2719.43,34.09,109.45,5.92
 United States,Arizona,2025-04-01,Solar,2001.85,25.1,96.09,5.19
 United States,Arizona,2025-04-01,Wind,297.11,3.72,3.27,0.18
 United States,Arizona,2025-04-01,Wind and solar,2298.96,28.82,99.36,5.37
+United States,Arizona,2025-05-01,Bioenergy,20.62,0.21,4.74,0.2
+United States,Arizona,2025-05-01,Clean,5478.02,56.06,152.67,6.46
+United States,Arizona,2025-05-01,Coal,342.41,3.5,280.78,11.89
+United States,Arizona,2025-05-01,Fossil,4294.41,43.94,2208.73,93.54
+United States,Arizona,2025-05-01,Gas,3992.61,40.86,1956.38,82.85
+United States,Arizona,2025-05-01,Hydro,446.36,4.57,10.71,0.45
+United States,Arizona,2025-05-01,Nuclear,2580.29,26.4,30.96,1.31
+United States,Arizona,2025-05-01,Other Fossil,-40.61,-0.42,-28.43,-1.2
+United States,Arizona,2025-05-01,Renewables,2897.73,29.66,121.71,5.15
+United States,Arizona,2025-05-01,Solar,2149.46,22.0,103.17,4.37
+United States,Arizona,2025-05-01,Wind,281.29,2.88,3.09,0.13
+United States,Arizona,2025-05-01,Wind and solar,2430.75,24.88,106.26,4.5
 United States,Arkansas,2001-01-01,Bioenergy,136.53,3.5,31.4,1.57
 United States,Arkansas,2001-01-01,Clean,1437.65,36.83,50.29,2.52
 United States,Arkansas,2001-01-01,Coal,2149.81,55.07,1762.84,88.39
@@ -13166,6 +13202,18 @@ United States,Arkansas,2025-04-01,Other Renewables,0.0,0.0,0.0,0.0
 United States,Arkansas,2025-04-01,Renewables,862.25,21.55,44.11,3.85
 United States,Arkansas,2025-04-01,Solar,487.53,12.19,23.4,2.04
 United States,Arkansas,2025-04-01,Wind and solar,487.53,12.19,23.4,2.04
+United States,Arkansas,2025-05-01,Bioenergy,72.16,1.42,16.6,0.85
+United States,Arkansas,2025-05-01,Clean,2289.54,45.14,65.1,3.32
+United States,Arkansas,2025-05-01,Coal,1611.13,31.77,1321.13,67.38
+United States,Arkansas,2025-05-01,Fossil,2781.28,54.85,1895.63,96.68
+United States,Arkansas,2025-05-01,Gas,1164.79,22.97,570.75,29.11
+United States,Arkansas,2025-05-01,Hydro,353.55,6.97,8.49,0.43
+United States,Arkansas,2025-05-01,Nuclear,1373.83,27.09,16.49,0.84
+United States,Arkansas,2025-05-01,Other Fossil,5.36,0.11,3.75,0.19
+United States,Arkansas,2025-05-01,Other Renewables,0.0,0.0,0.0,0.0
+United States,Arkansas,2025-05-01,Renewables,915.71,18.05,48.61,2.48
+United States,Arkansas,2025-05-01,Solar,490.0,9.66,23.52,1.2
+United States,Arkansas,2025-05-01,Wind and solar,490.0,9.66,23.52,1.2
 United States,California,2001-01-01,Bioenergy,491.74,2.99,113.1,2.0
 United States,California,2001-01-01,Clean,5678.16,34.52,222.95,3.95
 United States,California,2001-01-01,Coal,199.86,1.21,163.88,2.9
@@ -16938,6 +16986,19 @@ United States,California,2025-04-01,Renewables,14050.88,74.18,594.87,24.29
 United States,California,2025-04-01,Solar,8238.4,43.5,395.44,16.15
 United States,California,2025-04-01,Wind,1578.63,8.33,17.36,0.71
 United States,California,2025-04-01,Wind and solar,9817.03,51.83,412.8,16.86
+United States,California,2025-05-01,Bioenergy,369.73,1.78,85.04,3.06
+United States,California,2025-05-01,Clean,16496.76,79.33,676.75,24.36
+United States,California,2025-05-01,Coal,18.44,0.09,15.12,0.54
+United States,California,2025-05-01,Fossil,4297.17,20.67,2101.01,75.64
+United States,California,2025-05-01,Gas,4329.64,20.82,2121.52,76.38
+United States,California,2025-05-01,Hydro,3173.42,15.26,76.16,2.74
+United States,California,2025-05-01,Nuclear,1150.74,5.53,13.81,0.5
+United States,California,2025-05-01,Other Fossil,-50.91,-0.24,-35.63,-1.28
+United States,California,2025-05-01,Other Renewables,915.65,4.4,34.79,1.25
+United States,California,2025-05-01,Renewables,15346.02,73.8,662.94,23.86
+United States,California,2025-05-01,Solar,9383.62,45.13,450.41,16.21
+United States,California,2025-05-01,Wind,1503.6,7.23,16.54,0.6
+United States,California,2025-05-01,Wind and solar,10887.22,52.36,466.95,16.81
 United States,Colorado,2001-01-01,Bioenergy,5.16,0.12,1.19,0.04
 United States,Colorado,2001-01-01,Clean,117.17,2.8,3.9,0.13
 United States,Colorado,2001-01-01,Coal,3245.94,77.87,2661.67,86.85
@@ -20370,6 +20431,18 @@ United States,Colorado,2025-04-01,Renewables,2304.73,49.22,53.74,3.3
 United States,Colorado,2025-04-01,Solar,676.92,14.46,32.49,1.99
 United States,Colorado,2025-04-01,Wind,1462.07,31.22,16.08,0.99
 United States,Colorado,2025-04-01,Wind and solar,2138.99,45.68,48.57,2.98
+United States,Colorado,2025-05-01,Bioenergy,5.11,0.11,1.18,0.07
+United States,Colorado,2025-05-01,Clean,2339.95,49.5,56.78,3.47
+United States,Colorado,2025-05-01,Coal,1241.03,26.25,1017.65,62.19
+United States,Colorado,2025-05-01,Fossil,2387.75,50.5,1579.48,96.53
+United States,Colorado,2025-05-01,Gas,1147.04,24.26,562.05,34.35
+United States,Colorado,2025-05-01,Hydro,179.03,3.79,4.3,0.26
+United States,Colorado,2025-05-01,Other Fossil,-0.32,-0.01,-0.22,-0.01
+United States,Colorado,2025-05-01,Other Renewables,2.72,0.06,0.1,0.01
+United States,Colorado,2025-05-01,Renewables,2339.95,49.5,56.78,3.47
+United States,Colorado,2025-05-01,Solar,743.81,15.73,35.7,2.18
+United States,Colorado,2025-05-01,Wind,1409.28,29.81,15.5,0.95
+United States,Colorado,2025-05-01,Wind and solar,2153.09,45.54,51.2,3.13
 United States,Connecticut,2001-01-01,Bioenergy,74.76,2.55,17.19,1.62
 United States,Connecticut,2001-01-01,Clean,1478.43,50.45,34.48,3.24
 United States,Connecticut,2001-01-01,Coal,327.54,11.18,268.58,25.25
@@ -23572,6 +23645,19 @@ United States,Connecticut,2025-04-01,Renewables,316.87,10.59,22.54,2.48
 United States,Connecticut,2025-04-01,Solar,238.0,7.95,11.42,1.26
 United States,Connecticut,2025-04-01,Wind,0.0,0.0,0.0,0.0
 United States,Connecticut,2025-04-01,Wind and solar,238.0,7.95,11.42,1.26
+United States,Connecticut,2025-05-01,Bioenergy,51.77,1.89,11.91,1.63
+United States,Connecticut,2025-05-01,Clean,1342.21,48.99,36.7,5.03
+United States,Connecticut,2025-05-01,Coal,0.0,0.0,0.0,0.0
+United States,Connecticut,2025-05-01,Fossil,1397.55,51.01,692.11,94.96
+United States,Connecticut,2025-05-01,Gas,1362.76,49.74,667.75,91.62
+United States,Connecticut,2025-05-01,Hydro,46.34,1.69,1.11,0.15
+United States,Connecticut,2025-05-01,Nuclear,1001.03,36.54,12.01,1.65
+United States,Connecticut,2025-05-01,Other Fossil,34.79,1.27,24.36,3.34
+United States,Connecticut,2025-05-01,Other Renewables,0.0,0.0,0.0,0.0
+United States,Connecticut,2025-05-01,Renewables,341.18,12.45,24.69,3.38
+United States,Connecticut,2025-05-01,Solar,243.07,8.87,11.67,1.6
+United States,Connecticut,2025-05-01,Wind,0.0,0.0,0.0,0.0
+United States,Connecticut,2025-05-01,Wind and solar,243.07,8.87,11.67,1.6
 United States,Delaware,2001-01-01,Coal,474.12,75.86,388.78,78.88
 United States,Delaware,2001-01-01,Fossil,624.98,100.0,492.9,100.0
 United States,Delaware,2001-01-01,Gas,7.06,1.13,3.46,0.7
@@ -26050,6 +26136,16 @@ United States,Delaware,2025-04-01,Renewables,43.87,9.31,2.99,1.38
 United States,Delaware,2025-04-01,Solar,38.24,8.12,1.84,0.85
 United States,Delaware,2025-04-01,Wind,0.68,0.14,0.01,0.0
 United States,Delaware,2025-04-01,Wind and solar,38.92,8.26,1.85,0.85
+United States,Delaware,2025-05-01,Bioenergy,4.83,2.29,1.11,1.27
+United States,Delaware,2025-05-01,Clean,46.39,21.99,3.08,3.53
+United States,Delaware,2025-05-01,Coal,0.0,0.0,0.0,0.0
+United States,Delaware,2025-05-01,Fossil,164.59,78.01,84.58,96.47
+United States,Delaware,2025-05-01,Gas,145.88,69.14,71.48,81.53
+United States,Delaware,2025-05-01,Other Fossil,18.71,8.87,13.1,14.94
+United States,Delaware,2025-05-01,Renewables,46.39,21.99,3.08,3.53
+United States,Delaware,2025-05-01,Solar,41.14,19.5,1.97,2.25
+United States,Delaware,2025-05-01,Wind,0.42,0.2,0.0,0.01
+United States,Delaware,2025-05-01,Wind and solar,41.56,19.7,1.97,2.26
 United States,Florida,2001-01-01,Bioenergy,334.73,1.99,76.99,0.78
 United States,Florida,2001-01-01,Clean,3303.19,19.68,113.17,1.15
 United States,Florida,2001-01-01,Coal,6721.86,40.03,5511.93,55.68
@@ -29344,6 +29440,18 @@ United States,Florida,2025-04-01,Other Renewables,37.77,0.18,1.44,0.02
 United States,Florida,2025-04-01,Renewables,3414.18,16.32,215.35,2.73
 United States,Florida,2025-04-01,Solar,3091.6,14.78,148.4,1.88
 United States,Florida,2025-04-01,Wind and solar,3091.6,14.78,148.4,1.88
+United States,Florida,2025-05-01,Bioenergy,263.87,1.04,60.69,0.61
+United States,Florida,2025-05-01,Clean,6047.17,23.86,237.97,2.38
+United States,Florida,2025-05-01,Coal,899.7,3.55,737.75,7.36
+United States,Florida,2025-05-01,Fossil,19295.49,76.14,9792.42,97.63
+United States,Florida,2025-05-01,Gas,18201.78,71.82,8918.87,88.92
+United States,Florida,2025-05-01,Hydro,0.0,0.0,0.0,0.0
+United States,Florida,2025-05-01,Nuclear,2779.4,10.97,33.35,0.33
+United States,Florida,2025-05-01,Other Fossil,194.01,0.77,135.8,1.35
+United States,Florida,2025-05-01,Other Renewables,25.65,0.1,0.97,0.01
+United States,Florida,2025-05-01,Renewables,3267.77,12.89,204.62,2.05
+United States,Florida,2025-05-01,Solar,2978.25,11.75,142.96,1.43
+United States,Florida,2025-05-01,Wind and solar,2978.25,11.75,142.96,1.43
 United States,Georgia,2001-01-01,Bioenergy,260.53,2.36,59.92,0.96
 United States,Georgia,2001-01-01,Clean,3529.66,31.95,101.61,1.63
 United States,Georgia,2001-01-01,Coal,7258.91,65.71,5952.31,95.72
@@ -32584,6 +32692,18 @@ United States,Georgia,2025-04-01,Other Renewables,2.05,0.02,0.08,0.0
 United States,Georgia,2025-04-01,Renewables,1793.25,15.69,149.67,4.38
 United States,Georgia,2025-04-01,Solar,1196.08,10.46,57.41,1.68
 United States,Georgia,2025-04-01,Wind and solar,1196.08,10.46,57.41,1.68
+United States,Georgia,2025-05-01,Bioenergy,390.53,3.24,89.82,2.48
+United States,Georgia,2025-05-01,Clean,5865.73,48.67,201.03,5.55
+United States,Georgia,2025-05-01,Coal,1151.02,9.55,943.84,26.09
+United States,Georgia,2025-05-01,Fossil,6187.2,51.34,3416.31,94.44
+United States,Georgia,2025-05-01,Gas,5013.61,41.6,2456.67,67.91
+United States,Georgia,2025-05-01,Hydro,286.46,2.38,6.88,0.19
+United States,Georgia,2025-05-01,Nuclear,4019.66,33.35,48.24,1.33
+United States,Georgia,2025-05-01,Other Fossil,22.57,0.19,15.8,0.44
+United States,Georgia,2025-05-01,Other Renewables,2.13,0.02,0.08,0.0
+United States,Georgia,2025-05-01,Renewables,1846.07,15.32,152.79,4.22
+United States,Georgia,2025-05-01,Solar,1166.95,9.68,56.01,1.55
+United States,Georgia,2025-05-01,Wind and solar,1166.95,9.68,56.01,1.55
 United States,Hawaii,2001-01-01,Bioenergy,21.1,2.27,4.85,0.76
 United States,Hawaii,2001-01-01,Clean,53.63,5.77,5.99,0.93
 United States,Hawaii,2001-01-01,Coal,134.16,14.44,110.01,17.32
@@ -35720,6 +35840,16 @@ United States,Hawaii,2025-04-01,Renewables,327.49,36.41,18.45,4.4
 United States,Hawaii,2025-04-01,Solar,223.48,24.84,10.73,2.56
 United States,Hawaii,2025-04-01,Wind,46.58,5.18,0.51,0.12
 United States,Hawaii,2025-04-01,Wind and solar,270.06,30.02,11.24,2.68
+United States,Hawaii,2025-05-01,Bioenergy,19.51,2.25,4.49,1.14
+United States,Hawaii,2025-05-01,Clean,332.02,38.26,17.14,4.36
+United States,Hawaii,2025-05-01,Fossil,535.89,61.75,375.12,95.63
+United States,Hawaii,2025-05-01,Hydro,0.0,0.0,0.0,0.0
+United States,Hawaii,2025-05-01,Other Fossil,535.89,61.75,375.12,95.63
+United States,Hawaii,2025-05-01,Other Renewables,4.26,0.49,0.16,0.04
+United States,Hawaii,2025-05-01,Renewables,332.02,38.26,17.14,4.36
+United States,Hawaii,2025-05-01,Solar,245.85,28.33,11.8,3.01
+United States,Hawaii,2025-05-01,Wind,62.4,7.19,0.69,0.17
+United States,Hawaii,2025-05-01,Wind and solar,308.25,35.52,12.49,3.18
 United States,Idaho,2001-01-01,Bioenergy,43.49,7.18,10.0,22.79
 United States,Idaho,2001-01-01,Clean,569.7,94.11,22.63,51.56
 United States,Idaho,2001-01-01,Coal,4.72,0.78,3.87,8.81
@@ -38864,6 +38994,18 @@ United States,Idaho,2025-04-01,Renewables,1333.47,87.75,42.05,31.44
 United States,Idaho,2025-04-01,Solar,198.12,13.04,9.51,7.11
 United States,Idaho,2025-04-01,Wind,277.6,18.27,3.05,2.28
 United States,Idaho,2025-04-01,Wind and solar,475.72,31.31,12.56,9.39
+United States,Idaho,2025-05-01,Bioenergy,42.99,2.59,9.89,4.65
+United States,Idaho,2025-05-01,Clean,1312.9,79.06,42.67,20.05
+United States,Idaho,2025-05-01,Coal,0.0,0.0,0.0,0.0
+United States,Idaho,2025-05-01,Fossil,347.99,20.95,170.13,79.95
+United States,Idaho,2025-05-01,Gas,349.85,21.06,171.43,80.56
+United States,Idaho,2025-05-01,Hydro,804.48,48.44,19.31,9.07
+United States,Idaho,2025-05-01,Other Fossil,-1.86,-0.11,-1.3,-0.61
+United States,Idaho,2025-05-01,Other Renewables,0.0,0.0,0.0,0.0
+United States,Idaho,2025-05-01,Renewables,1312.9,79.06,42.67,20.05
+United States,Idaho,2025-05-01,Solar,225.65,13.59,10.83,5.09
+United States,Idaho,2025-05-01,Wind,239.78,14.44,2.64,1.24
+United States,Idaho,2025-05-01,Wind and solar,465.43,28.03,13.47,6.33
 United States,Illinois,2001-01-01,Bioenergy,59.14,0.37,13.6,0.21
 United States,Illinois,2001-01-01,Clean,8312.26,51.82,112.86,1.75
 United States,Illinois,2001-01-01,Coal,7539.57,47.0,6182.45,96.62
@@ -42516,6 +42658,19 @@ United States,Illinois,2025-04-01,Renewables,3213.55,21.36,68.87,2.57
 United States,Illinois,2025-04-01,Solar,783.34,5.21,37.6,1.4
 United States,Illinois,2025-04-01,Wind,2408.89,16.01,26.5,0.99
 United States,Illinois,2025-04-01,Wind and solar,3192.23,21.22,64.1,2.39
+United States,Illinois,2025-05-01,Bioenergy,20.44,0.14,4.7,0.17
+United States,Illinois,2025-05-01,Clean,11315.24,75.03,170.96,6.21
+United States,Illinois,2025-05-01,Coal,2202.36,14.6,1805.94,65.64
+United States,Illinois,2025-05-01,Fossil,3767.49,24.98,2580.16,93.78
+United States,Illinois,2025-05-01,Gas,1530.35,10.15,749.87,27.26
+United States,Illinois,2025-05-01,Hydro,0.0,0.0,0.0,0.0
+United States,Illinois,2025-05-01,Nuclear,8393.89,55.65,100.73,3.66
+United States,Illinois,2025-05-01,Other Fossil,34.78,0.23,24.35,0.88
+United States,Illinois,2025-05-01,Other Renewables,0.76,0.01,0.03,0.0
+United States,Illinois,2025-05-01,Renewables,2921.35,19.38,70.23,2.55
+United States,Illinois,2025-05-01,Solar,908.09,6.02,43.59,1.58
+United States,Illinois,2025-05-01,Wind,1992.06,13.21,21.91,0.8
+United States,Illinois,2025-05-01,Wind and solar,2900.15,19.23,65.5,2.38
 United States,Indiana,2001-01-01,Bioenergy,8.62,0.08,1.98,0.02
 United States,Indiana,2001-01-01,Clean,60.28,0.55,3.22,0.03
 United States,Indiana,2001-01-01,Coal,10474.9,95.78,8589.42,97.15
@@ -45645,6 +45800,18 @@ United States,Indiana,2025-04-01,Renewables,1684.41,21.45,43.65,1.04
 United States,Indiana,2025-04-01,Solar,557.95,7.1,26.78,0.64
 United States,Indiana,2025-04-01,Wind,1068.91,13.61,11.76,0.28
 United States,Indiana,2025-04-01,Wind and solar,1626.86,20.71,38.54,0.92
+United States,Indiana,2025-05-01,Bioenergy,14.99,0.2,3.45,0.09
+United States,Indiana,2025-05-01,Clean,1620.1,21.79,49.41,1.27
+United States,Indiana,2025-05-01,Coal,2933.85,39.46,2405.75,61.72
+United States,Indiana,2025-05-01,Fossil,5815.59,78.22,3848.19,98.73
+United States,Indiana,2025-05-01,Gas,2737.05,36.81,1341.15,34.41
+United States,Indiana,2025-05-01,Hydro,43.95,0.59,1.05,0.03
+United States,Indiana,2025-05-01,Other Fossil,144.69,1.95,101.29,2.6
+United States,Indiana,2025-05-01,Other Renewables,3.55,0.05,0.13,0.0
+United States,Indiana,2025-05-01,Renewables,1620.1,21.79,49.41,1.27
+United States,Indiana,2025-05-01,Solar,747.3,10.05,35.87,0.92
+United States,Indiana,2025-05-01,Wind,810.31,10.9,8.91,0.23
+United States,Indiana,2025-05-01,Wind and solar,1557.61,20.95,44.78,1.15
 United States,Iowa,2001-01-01,Bioenergy,9.0,0.24,2.07,0.08
 United States,Iowa,2001-01-01,Clean,502.57,13.35,8.78,0.33
 United States,Iowa,2001-01-01,Coal,3230.31,85.86,2648.85,99.09
@@ -49232,6 +49399,18 @@ United States,Iowa,2025-04-01,Renewables,4883.95,80.33,64.74,7.27
 United States,Iowa,2025-04-01,Solar,172.49,2.84,8.28,0.93
 United States,Iowa,2025-04-01,Wind,4589.79,75.49,50.49,5.67
 United States,Iowa,2025-04-01,Wind and solar,4762.28,78.33,58.77,6.6
+United States,Iowa,2025-05-01,Bioenergy,16.28,0.31,3.74,0.31
+United States,Iowa,2025-05-01,Clean,3576.62,68.66,51.94,4.3
+United States,Iowa,2025-05-01,Coal,1078.16,20.7,884.09,73.27
+United States,Iowa,2025-05-01,Fossil,1631.62,31.32,1154.76,95.7
+United States,Iowa,2025-05-01,Gas,555.94,10.67,272.41,22.57
+United States,Iowa,2025-05-01,Hydro,100.24,1.92,2.41,0.2
+United States,Iowa,2025-05-01,Other Fossil,-2.48,-0.05,-1.74,-0.14
+United States,Iowa,2025-05-01,Other Renewables,7.73,0.15,0.29,0.02
+United States,Iowa,2025-05-01,Renewables,3576.62,68.66,51.94,4.3
+United States,Iowa,2025-05-01,Solar,203.23,3.9,9.76,0.81
+United States,Iowa,2025-05-01,Wind,3249.14,62.38,35.74,2.96
+United States,Iowa,2025-05-01,Wind and solar,3452.37,66.28,45.5,3.77
 United States,Kansas,2001-01-01,Clean,888.12,21.62,10.66,0.41
 United States,Kansas,2001-01-01,Coal,3054.6,74.36,2504.77,95.68
 United States,Kansas,2001-01-01,Fossil,3219.93,78.38,2607.18,99.59
@@ -52584,6 +52763,18 @@ United States,Kansas,2025-04-01,Renewables,3109.17,62.43,36.55,4.22
 United States,Kansas,2025-04-01,Solar,33.59,0.67,1.61,0.19
 United States,Kansas,2025-04-01,Wind,3068.62,61.62,33.75,3.89
 United States,Kansas,2025-04-01,Wind and solar,3102.21,62.29,35.36,4.08
+United States,Kansas,2025-05-01,Bioenergy,5.52,0.11,1.27,0.09
+United States,Kansas,2025-05-01,Clean,3279.18,65.12,40.87,3.04
+United States,Kansas,2025-05-01,Coal,1335.31,26.51,1094.96,81.49
+United States,Kansas,2025-05-01,Fossil,1757.16,34.89,1302.73,96.95
+United States,Kansas,2025-05-01,Gas,416.78,8.28,204.22,15.2
+United States,Kansas,2025-05-01,Hydro,2.28,0.05,0.05,0.0
+United States,Kansas,2025-05-01,Nuclear,906.59,18.0,10.88,0.81
+United States,Kansas,2025-05-01,Other Fossil,5.07,0.1,3.55,0.26
+United States,Kansas,2025-05-01,Renewables,2372.59,47.12,29.99,2.23
+United States,Kansas,2025-05-01,Solar,71.82,1.43,3.45,0.26
+United States,Kansas,2025-05-01,Wind,2292.97,45.53,25.22,1.88
+United States,Kansas,2025-05-01,Wind and solar,2364.79,46.96,28.67,2.14
 United States,Kentucky,2001-01-01,Bioenergy,0.86,0.01,0.2,0.0
 United States,Kentucky,2001-01-01,Clean,194.45,2.39,4.85,0.07
 United States,Kentucky,2001-01-01,Coal,7894.33,97.24,6473.35,99.68
@@ -55360,6 +55551,16 @@ United States,Kentucky,2025-04-01,Other Fossil,6.53,0.14,4.57,0.14
 United States,Kentucky,2025-04-01,Renewables,417.37,8.69,19.66,0.6
 United States,Kentucky,2025-04-01,Solar,132.14,2.75,6.34,0.19
 United States,Kentucky,2025-04-01,Wind and solar,132.14,2.75,6.34,0.19
+United States,Kentucky,2025-05-01,Bioenergy,33.06,0.62,7.6,0.22
+United States,Kentucky,2025-05-01,Clean,597.03,11.2,25.03,0.72
+United States,Kentucky,2025-05-01,Coal,3375.4,63.29,2767.82,79.95
+United States,Kentucky,2025-05-01,Fossil,4736.17,88.81,3436.82,99.27
+United States,Kentucky,2025-05-01,Gas,1350.17,25.32,661.58,19.11
+United States,Kentucky,2025-05-01,Hydro,401.97,7.54,9.65,0.28
+United States,Kentucky,2025-05-01,Other Fossil,10.6,0.2,7.42,0.21
+United States,Kentucky,2025-05-01,Renewables,597.03,11.2,25.03,0.72
+United States,Kentucky,2025-05-01,Solar,162.0,3.04,7.78,0.22
+United States,Kentucky,2025-05-01,Wind and solar,162.0,3.04,7.78,0.22
 United States,Louisiana,2001-01-01,Bioenergy,226.18,3.04,52.02,1.4
 United States,Louisiana,2001-01-01,Clean,1778.64,23.93,70.89,1.91
 United States,Louisiana,2001-01-01,Coal,2127.59,28.62,1744.63,47.12
@@ -58552,6 +58753,18 @@ United States,Louisiana,2025-04-01,Other Renewables,6.52,0.09,0.25,0.01
 United States,Louisiana,2025-04-01,Renewables,488.71,6.55,51.15,1.67
 United States,Louisiana,2025-04-01,Solar,265.71,3.56,12.75,0.42
 United States,Louisiana,2025-04-01,Wind and solar,265.71,3.56,12.75,0.42
+United States,Louisiana,2025-05-01,Bioenergy,172.62,2.13,39.7,1.08
+United States,Louisiana,2025-05-01,Clean,1107.32,13.66,61.68,1.68
+United States,Louisiana,2025-05-01,Coal,538.82,6.65,441.83,11.97
+United States,Louisiana,2025-05-01,Fossil,6994.47,86.33,3630.84,98.33
+United States,Louisiana,2025-05-01,Gas,6333.04,78.17,3103.19,84.04
+United States,Louisiana,2025-05-01,Hydro,70.02,0.86,1.68,0.05
+United States,Louisiana,2025-05-01,Nuclear,586.96,7.24,7.04,0.19
+United States,Louisiana,2025-05-01,Other Fossil,122.61,1.51,85.82,2.32
+United States,Louisiana,2025-05-01,Other Renewables,7.34,0.09,0.28,0.01
+United States,Louisiana,2025-05-01,Renewables,520.36,6.42,54.64,1.49
+United States,Louisiana,2025-05-01,Solar,270.38,3.34,12.98,0.35
+United States,Louisiana,2025-05-01,Wind and solar,270.38,3.34,12.98,0.35
 United States,Maine,2001-01-01,Bioenergy,348.1,21.07,80.06,11.2
 United States,Maine,2001-01-01,Clean,612.87,37.1,86.46,12.1
 United States,Maine,2001-01-01,Coal,54.4,3.29,44.61,6.24
@@ -61750,6 +61963,18 @@ United States,Maine,2025-04-01,Renewables,916.58,77.46,50.17,26.92
 United States,Maine,2025-04-01,Solar,261.4,22.09,12.55,6.73
 United States,Maine,2025-04-01,Wind,244.78,20.69,2.69,1.44
 United States,Maine,2025-04-01,Wind and solar,506.18,42.78,15.24,8.17
+United States,Maine,2025-05-01,Bioenergy,115.07,8.47,26.47,10.46
+United States,Maine,2025-05-01,Clean,956.79,70.39,51.02,20.16
+United States,Maine,2025-05-01,Coal,2.36,0.17,1.94,0.77
+United States,Maine,2025-05-01,Fossil,402.52,29.61,202.09,79.85
+United States,Maine,2025-05-01,Gas,380.74,28.01,186.56,73.71
+United States,Maine,2025-05-01,Hydro,349.88,25.74,8.4,3.32
+United States,Maine,2025-05-01,Other Fossil,19.42,1.43,13.59,5.37
+United States,Maine,2025-05-01,Other Renewables,0.72,0.05,0.03,0.01
+United States,Maine,2025-05-01,Renewables,956.79,70.39,51.02,20.16
+United States,Maine,2025-05-01,Solar,289.57,21.3,13.9,5.49
+United States,Maine,2025-05-01,Wind,201.55,14.83,2.22,0.88
+United States,Maine,2025-05-01,Wind and solar,491.12,36.13,16.12,6.37
 United States,Maryland,2001-01-01,Bioenergy,26.64,0.58,6.13,0.24
 United States,Maryland,2001-01-01,Clean,1392.37,30.25,23.38,0.91
 United States,Maryland,2001-01-01,Coal,2744.35,59.63,2250.36,86.94
@@ -65113,6 +65338,18 @@ United States,Maryland,2025-04-01,Renewables,516.36,16.28,23.88,3.34
 United States,Maryland,2025-04-01,Solar,265.01,8.35,12.72,1.78
 United States,Maryland,2025-04-01,Wind,52.22,1.65,0.57,0.08
 United States,Maryland,2025-04-01,Wind and solar,317.23,10.0,13.29,1.86
+United States,Maryland,2025-05-01,Bioenergy,30.63,0.9,7.05,0.96
+United States,Maryland,2025-05-01,Clean,2041.61,60.24,45.6,6.21
+United States,Maryland,2025-05-01,Coal,62.29,1.84,51.08,6.95
+United States,Maryland,2025-05-01,Fossil,1346.8,39.74,689.06,93.79
+United States,Maryland,2025-05-01,Gas,1243.71,36.7,609.42,82.95
+United States,Maryland,2025-05-01,Hydro,314.25,9.27,7.54,1.03
+United States,Maryland,2025-05-01,Nuclear,1344.87,39.69,16.14,2.2
+United States,Maryland,2025-05-01,Other Fossil,40.8,1.2,28.56,3.89
+United States,Maryland,2025-05-01,Renewables,696.74,20.55,29.46,4.01
+United States,Maryland,2025-05-01,Solar,297.29,8.77,14.27,1.94
+United States,Maryland,2025-05-01,Wind,54.57,1.61,0.6,0.08
+United States,Maryland,2025-05-01,Wind and solar,351.86,10.38,14.87,2.02
 United States,Massachusetts,2001-01-01,Bioenergy,112.61,2.96,25.9,1.16
 United States,Massachusetts,2001-01-01,Clean,659.63,17.34,33.16,1.48
 United States,Massachusetts,2001-01-01,Coal,1125.77,29.59,923.13,41.25
@@ -68634,6 +68871,18 @@ United States,Massachusetts,2025-04-01,Renewables,795.11,41.76,44.37,7.41
 United States,Massachusetts,2025-04-01,Solar,643.85,33.81,30.9,5.17
 United States,Massachusetts,2025-04-01,Wind,21.85,1.15,0.24,0.04
 United States,Massachusetts,2025-04-01,Wind and solar,665.7,34.96,31.14,5.21
+United States,Massachusetts,2025-05-01,Bioenergy,61.36,3.05,14.11,2.22
+United States,Massachusetts,2025-05-01,Clean,839.34,41.69,48.69,7.65
+United States,Massachusetts,2025-05-01,Coal,0.0,0.0,0.0,0.0
+United States,Massachusetts,2025-05-01,Fossil,1174.53,58.32,588.28,92.36
+United States,Massachusetts,2025-05-01,Gas,1113.77,55.3,545.75,85.68
+United States,Massachusetts,2025-05-01,Hydro,83.69,4.16,2.01,0.32
+United States,Massachusetts,2025-05-01,Other Fossil,60.76,3.02,42.53,6.68
+United States,Massachusetts,2025-05-01,Other Renewables,2.32,0.12,0.09,0.01
+United States,Massachusetts,2025-05-01,Renewables,839.34,41.69,48.69,7.65
+United States,Massachusetts,2025-05-01,Solar,672.17,33.38,32.26,5.07
+United States,Massachusetts,2025-05-01,Wind,19.8,0.98,0.22,0.03
+United States,Massachusetts,2025-05-01,Wind and solar,691.97,34.36,32.48,5.1
 United States,Michigan,2001-01-01,Bioenergy,194.98,1.91,44.85,0.79
 United States,Michigan,2001-01-01,Clean,3042.62,29.88,79.3,1.4
 United States,Michigan,2001-01-01,Coal,6259.01,61.47,5132.39,90.68
@@ -72252,6 +72501,19 @@ United States,Michigan,2025-04-01,Renewables,1538.62,16.35,62.02,1.58
 United States,Michigan,2025-04-01,Solar,300.28,3.19,14.41,0.37
 United States,Michigan,2025-04-01,Wind,994.6,10.57,10.94,0.28
 United States,Michigan,2025-04-01,Wind and solar,1294.88,13.76,25.35,0.65
+United States,Michigan,2025-05-01,Bioenergy,177.49,1.97,40.82,1.24
+United States,Michigan,2025-05-01,Clean,3930.45,43.58,98.01,2.99
+United States,Michigan,2025-05-01,Coal,2089.27,23.17,1713.2,52.08
+United States,Michigan,2025-05-01,Fossil,5088.0,56.42,3191.66,97.02
+United States,Michigan,2025-05-01,Gas,2955.46,32.77,1448.17,44.02
+United States,Michigan,2025-05-01,Hydro,77.01,0.85,1.85,0.06
+United States,Michigan,2025-05-01,Nuclear,2516.05,27.9,30.19,0.92
+United States,Michigan,2025-05-01,Other Fossil,43.27,0.48,30.29,0.92
+United States,Michigan,2025-05-01,Other Renewables,0.0,0.0,0.0,0.0
+United States,Michigan,2025-05-01,Renewables,1414.4,15.68,67.82,2.07
+United States,Michigan,2025-05-01,Solar,334.94,3.71,16.08,0.49
+United States,Michigan,2025-05-01,Wind,824.96,9.15,9.07,0.28
+United States,Michigan,2025-05-01,Wind and solar,1159.9,12.86,25.15,0.77
 United States,Minnesota,2001-01-01,Bioenergy,91.34,2.13,21.01,0.85
 United States,Minnesota,2001-01-01,Clean,1298.93,30.25,36.18,1.47
 United States,Minnesota,2001-01-01,Coal,2894.9,67.43,2373.82,96.27
@@ -75916,6 +76178,19 @@ United States,Minnesota,2025-04-01,Renewables,2009.57,44.12,53.56,4.86
 United States,Minnesota,2025-04-01,Solar,326.91,7.18,15.69,1.42
 United States,Minnesota,2025-04-01,Wind,1520.07,33.37,16.72,1.52
 United States,Minnesota,2025-04-01,Wind and solar,1846.98,40.55,32.41,2.94
+United States,Minnesota,2025-05-01,Bioenergy,74.19,1.77,17.06,1.56
+United States,Minnesota,2025-05-01,Clean,2604.54,62.03,61.28,5.6
+United States,Minnesota,2025-05-01,Coal,755.11,17.98,619.19,56.52
+United States,Minnesota,2025-05-01,Fossil,1594.84,37.97,1034.21,94.4
+United States,Minnesota,2025-05-01,Gas,822.82,19.59,403.18,36.8
+United States,Minnesota,2025-05-01,Hydro,71.74,1.71,1.72,0.16
+United States,Minnesota,2025-05-01,Nuclear,863.05,20.55,10.36,0.95
+United States,Minnesota,2025-05-01,Other Fossil,16.91,0.4,11.84,1.08
+United States,Minnesota,2025-05-01,Other Renewables,4.66,0.11,0.18,0.02
+United States,Minnesota,2025-05-01,Renewables,1741.49,41.48,50.92,4.65
+United States,Minnesota,2025-05-01,Solar,390.89,9.31,18.76,1.71
+United States,Minnesota,2025-05-01,Wind,1200.01,28.58,13.2,1.2
+United States,Minnesota,2025-05-01,Wind and solar,1590.9,37.89,31.96,2.91
 United States,Mississippi,2001-01-01,Bioenergy,114.64,3.22,26.37,1.37
 United States,Mississippi,2001-01-01,Clean,1061.21,29.78,37.73,1.96
 United States,Mississippi,2001-01-01,Coal,1581.79,44.39,1297.07,67.43
@@ -78823,6 +79098,18 @@ United States,Mississippi,2025-04-01,Renewables,426.32,7.44,33.8,1.49
 United States,Mississippi,2025-04-01,Solar,284.32,4.96,13.65,0.6
 United States,Mississippi,2025-04-01,Wind,57.11,1.0,0.63,0.03
 United States,Mississippi,2025-04-01,Wind and solar,341.43,5.96,14.28,0.63
+United States,Mississippi,2025-05-01,Bioenergy,109.77,2.03,25.25,1.2
+United States,Mississippi,2025-05-01,Clean,1456.53,26.96,50.96,2.43
+United States,Mississippi,2025-05-01,Coal,348.39,6.45,285.68,13.61
+United States,Mississippi,2025-05-01,Fossil,3944.06,73.03,2047.35,97.57
+United States,Mississippi,2025-05-01,Gas,3596.67,66.6,1762.37,83.99
+United States,Mississippi,2025-05-01,Nuclear,1042.52,19.3,12.51,0.6
+United States,Mississippi,2025-05-01,Other Fossil,-1.0,-0.02,-0.7,-0.03
+United States,Mississippi,2025-05-01,Other Renewables,0.0,0.0,0.0,0.0
+United States,Mississippi,2025-05-01,Renewables,414.01,7.66,38.45,1.83
+United States,Mississippi,2025-05-01,Solar,266.28,4.93,12.78,0.61
+United States,Mississippi,2025-05-01,Wind,37.96,0.7,0.42,0.02
+United States,Mississippi,2025-05-01,Wind and solar,304.24,5.63,13.2,0.63
 United States,Missouri,2001-01-01,Bioenergy,0.87,0.01,0.2,0.0
 United States,Missouri,2001-01-01,Clean,878.09,12.38,10.89,0.21
 United States,Missouri,2001-01-01,Coal,6138.55,86.58,5033.61,98.96
@@ -82295,6 +82582,19 @@ United States,Missouri,2025-04-01,Renewables,998.97,19.24,19.64,0.62
 United States,Missouri,2025-04-01,Solar,163.77,3.15,7.86,0.25
 United States,Missouri,2025-04-01,Wind,700.09,13.48,7.7,0.24
 United States,Missouri,2025-04-01,Wind and solar,863.86,16.63,15.56,0.49
+United States,Missouri,2025-05-01,Bioenergy,6.19,0.12,1.42,0.04
+United States,Missouri,2025-05-01,Clean,843.5,16.21,20.75,0.62
+United States,Missouri,2025-05-01,Coal,3597.24,69.12,2949.73,88.16
+United States,Missouri,2025-05-01,Fossil,4360.51,83.79,3325.13,99.38
+United States,Missouri,2025-05-01,Gas,756.66,14.54,370.77,11.08
+United States,Missouri,2025-05-01,Hydro,167.21,3.21,4.01,0.12
+United States,Missouri,2025-05-01,Nuclear,0.0,0.0,0.0,0.0
+United States,Missouri,2025-05-01,Other Fossil,6.61,0.13,4.63,0.14
+United States,Missouri,2025-05-01,Other Renewables,0.3,0.01,0.01,0.0
+United States,Missouri,2025-05-01,Renewables,843.5,16.21,20.75,0.62
+United States,Missouri,2025-05-01,Solar,214.63,4.12,10.3,0.31
+United States,Missouri,2025-05-01,Wind,455.17,8.75,5.01,0.15
+United States,Missouri,2025-05-01,Wind and solar,669.8,12.87,15.31,0.46
 United States,Montana,2001-01-01,Bioenergy,5.11,0.23,1.18,0.09
 United States,Montana,2001-01-01,Clean,673.78,29.81,17.23,1.31
 United States,Montana,2001-01-01,Coal,1584.89,70.11,1299.61,98.62
@@ -85207,6 +85507,17 @@ United States,Montana,2025-04-01,Renewables,1427.62,71.33,29.01,6.05
 United States,Montana,2025-04-01,Solar,49.83,2.49,2.39,0.5
 United States,Montana,2025-04-01,Wind,529.09,26.44,5.82,1.21
 United States,Montana,2025-04-01,Wind and solar,578.92,28.93,8.21,1.71
+United States,Montana,2025-05-01,Bioenergy,1.96,0.1,0.45,0.1
+United States,Montana,2025-05-01,Clean,1398.19,72.36,28.94,6.54
+United States,Montana,2025-05-01,Coal,445.44,23.05,365.26,82.56
+United States,Montana,2025-05-01,Fossil,533.93,27.63,413.47,93.46
+United States,Montana,2025-05-01,Gas,65.37,3.38,32.03,7.24
+United States,Montana,2025-05-01,Hydro,839.01,43.42,20.14,4.55
+United States,Montana,2025-05-01,Other Fossil,23.12,1.2,16.18,3.66
+United States,Montana,2025-05-01,Renewables,1398.19,72.36,28.94,6.54
+United States,Montana,2025-05-01,Solar,59.98,3.1,2.88,0.65
+United States,Montana,2025-05-01,Wind,497.24,25.74,5.47,1.24
+United States,Montana,2025-05-01,Wind and solar,557.22,28.84,8.35,1.89
 United States,Nebraska,2001-01-01,Bioenergy,1.57,0.05,0.36,0.02
 United States,Nebraska,2001-01-01,Clean,1020.59,35.18,13.6,0.87
 United States,Nebraska,2001-01-01,Coal,1871.57,64.53,1534.69,98.83
@@ -88847,6 +89158,19 @@ United States,Nebraska,2025-04-01,Renewables,1282.23,50.9,17.89,3.15
 United States,Nebraska,2025-04-01,Solar,25.2,1.0,1.21,0.21
 United States,Nebraska,2025-04-01,Wind,1139.26,45.23,12.53,2.2
 United States,Nebraska,2025-04-01,Wind and solar,1164.46,46.23,13.74,2.41
+United States,Nebraska,2025-05-01,Bioenergy,7.17,0.25,1.65,0.16
+United States,Nebraska,2025-05-01,Clean,1611.96,55.86,22.25,2.14
+United States,Nebraska,2025-05-01,Coal,1182.8,40.99,969.9,93.56
+United States,Nebraska,2025-05-01,Fossil,1273.73,44.14,1014.46,97.86
+United States,Nebraska,2025-05-01,Gas,90.93,3.15,44.56,4.3
+United States,Nebraska,2025-05-01,Hydro,109.08,3.78,2.62,0.25
+United States,Nebraska,2025-05-01,Nuclear,584.88,20.27,7.02,0.68
+United States,Nebraska,2025-05-01,Other Fossil,0.0,0.0,0.0,0.0
+United States,Nebraska,2025-05-01,Other Renewables,0.94,0.03,0.04,0.0
+United States,Nebraska,2025-05-01,Renewables,1027.08,35.59,15.23,1.46
+United States,Nebraska,2025-05-01,Solar,24.56,0.85,1.18,0.11
+United States,Nebraska,2025-05-01,Wind,885.33,30.68,9.74,0.94
+United States,Nebraska,2025-05-01,Wind and solar,909.89,31.53,10.92,1.05
 United States,Nevada,2001-01-01,Clean,320.09,10.8,9.2,0.51
 United States,Nevada,2001-01-01,Coal,1425.41,48.06,1168.84,65.15
 United States,Nevada,2001-01-01,Fossil,2645.74,89.2,1784.77,99.48
@@ -91964,6 +92288,18 @@ United States,Nevada,2025-04-01,Renewables,2144.48,58.81,93.23,10.86
 United States,Nevada,2025-04-01,Solar,1540.56,42.25,73.95,8.61
 United States,Nevada,2025-04-01,Wind,28.84,0.79,0.32,0.04
 United States,Nevada,2025-04-01,Wind and solar,1569.4,43.04,74.27,8.65
+United States,Nevada,2025-05-01,Bioenergy,3.93,0.09,0.9,0.08
+United States,Nevada,2025-05-01,Clean,2216.13,52.4,97.25,8.51
+United States,Nevada,2025-05-01,Coal,191.74,4.53,157.22,13.75
+United States,Nevada,2025-05-01,Fossil,2013.53,47.6,1045.83,91.48
+United States,Nevada,2025-05-01,Gas,1841.2,43.53,902.19,78.92
+United States,Nevada,2025-05-01,Hydro,262.24,6.2,6.29,0.55
+United States,Nevada,2025-05-01,Other Fossil,-19.41,-0.46,-13.58,-1.19
+United States,Nevada,2025-05-01,Other Renewables,260.91,6.17,9.91,0.87
+United States,Nevada,2025-05-01,Renewables,2216.13,52.4,97.25,8.51
+United States,Nevada,2025-05-01,Solar,1664.26,39.35,79.88,6.99
+United States,Nevada,2025-05-01,Wind,24.79,0.59,0.27,0.02
+United States,Nevada,2025-05-01,Wind and solar,1689.05,39.94,80.15,7.01
 United States,New Hampshire,2001-01-01,Bioenergy,91.17,13.97,20.97,5.99
 United States,New Hampshire,2001-01-01,Clean,250.11,38.34,24.28,6.93
 United States,New Hampshire,2001-01-01,Coal,382.52,58.64,313.67,89.6
@@ -95327,6 +95663,19 @@ United States,New Hampshire,2025-04-01,Renewables,267.32,17.2,17.47,7.96
 United States,New Hampshire,2025-04-01,Solar,39.66,2.55,1.9,0.87
 United States,New Hampshire,2025-04-01,Wind,47.3,3.04,0.52,0.24
 United States,New Hampshire,2025-04-01,Wind and solar,86.96,5.59,2.42,1.11
+United States,New Hampshire,2025-05-01,Bioenergy,73.04,4.6,16.8,8.14
+United States,New Hampshire,2025-05-01,Clean,1236.97,77.93,34.12,16.53
+United States,New Hampshire,2025-05-01,Coal,0.0,0.0,0.0,0.0
+United States,New Hampshire,2025-05-01,Fossil,349.99,22.05,172.27,83.47
+United States,New Hampshire,2025-05-01,Gas,346.32,21.82,169.7,82.22
+United States,New Hampshire,2025-05-01,Hydro,161.25,10.16,3.87,1.88
+United States,New Hampshire,2025-05-01,Nuclear,927.63,58.45,11.13,5.39
+United States,New Hampshire,2025-05-01,Other Fossil,3.67,0.23,2.57,1.25
+United States,New Hampshire,2025-05-01,Other Renewables,0.0,0.0,0.0,0.0
+United States,New Hampshire,2025-05-01,Renewables,309.34,19.48,22.99,11.14
+United States,New Hampshire,2025-05-01,Solar,40.39,2.54,1.94,0.94
+United States,New Hampshire,2025-05-01,Wind,34.66,2.18,0.38,0.18
+United States,New Hampshire,2025-05-01,Wind and solar,75.05,4.72,2.32,1.12
 United States,New Jersey,2001-01-01,Bioenergy,66.09,1.25,15.2,0.9
 United States,New Jersey,2001-01-01,Clean,2905.33,54.76,49.17,2.9
 United States,New Jersey,2001-01-01,Coal,1190.06,22.43,975.85,57.79
@@ -98919,6 +99268,19 @@ United States,New Jersey,2025-04-01,Renewables,575.32,10.43,37.15,2.43
 United States,New Jersey,2025-04-01,Solar,534.45,9.69,25.65,1.68
 United States,New Jersey,2025-04-01,Wind,2.15,0.04,0.02,0.0
 United States,New Jersey,2025-04-01,Wind and solar,536.6,9.73,25.67,1.68
+United States,New Jersey,2025-05-01,Bioenergy,45.41,1.07,10.45,1.04
+United States,New Jersey,2025-05-01,Clean,2330.37,54.87,58.0,5.75
+United States,New Jersey,2025-05-01,Coal,0.0,0.0,0.0,0.0
+United States,New Jersey,2025-05-01,Fossil,1916.5,45.13,949.85,94.25
+United States,New Jersey,2025-05-01,Gas,1865.25,43.92,913.97,90.69
+United States,New Jersey,2025-05-01,Hydro,-19.14,-0.45,-0.46,-0.05
+United States,New Jersey,2025-05-01,Nuclear,1737.13,40.9,20.85,2.07
+United States,New Jersey,2025-05-01,Other Fossil,51.25,1.21,35.88,3.56
+United States,New Jersey,2025-05-01,Other Renewables,0.19,0.0,0.01,0.0
+United States,New Jersey,2025-05-01,Renewables,593.24,13.97,37.15,3.68
+United States,New Jersey,2025-05-01,Solar,565.25,13.31,27.13,2.69
+United States,New Jersey,2025-05-01,Wind,1.53,0.04,0.02,0.0
+United States,New Jersey,2025-05-01,Wind and solar,566.78,13.35,27.15,2.69
 United States,New Mexico,2001-01-01,Bioenergy,1.56,0.05,0.36,0.02
 United States,New Mexico,2001-01-01,Clean,15.55,0.53,0.72,0.03
 United States,New Mexico,2001-01-01,Coal,2626.72,89.94,2153.91,93.9
@@ -102242,6 +102604,18 @@ United States,New Mexico,2025-04-01,Renewables,1943.38,55.4,44.74,4.17
 United States,New Mexico,2025-04-01,Solar,613.49,17.49,29.45,2.75
 United States,New Mexico,2025-04-01,Wind,1323.4,37.73,14.56,1.36
 United States,New Mexico,2025-04-01,Wind and solar,1936.89,55.22,44.01,4.11
+United States,New Mexico,2025-05-01,Bioenergy,2.36,0.07,0.54,0.05
+United States,New Mexico,2025-05-01,Clean,1761.26,53.54,44.92,4.27
+United States,New Mexico,2025-05-01,Coal,770.1,23.41,631.48,60.02
+United States,New Mexico,2025-05-01,Fossil,1527.85,46.45,1007.11,95.72
+United States,New Mexico,2025-05-01,Gas,737.16,22.41,361.21,34.33
+United States,New Mexico,2025-05-01,Hydro,0.0,0.0,0.0,0.0
+United States,New Mexico,2025-05-01,Other Fossil,20.59,0.63,14.42,1.37
+United States,New Mexico,2025-05-01,Other Renewables,5.03,0.15,0.19,0.02
+United States,New Mexico,2025-05-01,Renewables,1761.26,53.54,44.92,4.27
+United States,New Mexico,2025-05-01,Solar,672.97,20.46,32.3,3.07
+United States,New Mexico,2025-05-01,Wind,1080.9,32.86,11.89,1.13
+United States,New Mexico,2025-05-01,Wind and solar,1753.87,53.32,44.19,4.2
 United States,New York,2001-01-01,Bioenergy,152.77,1.21,35.14,0.7
 United States,New York,2001-01-01,Clean,5444.26,43.13,122.12,2.42
 United States,New York,2001-01-01,Coal,2453.3,19.44,2011.71,39.9
@@ -105829,6 +106203,19 @@ United States,New York,2025-04-01,Renewables,3878.82,37.54,132.61,5.98
 United States,New York,2025-04-01,Solar,953.72,9.23,45.78,2.07
 United States,New York,2025-04-01,Wind,674.83,6.53,7.42,0.33
 United States,New York,2025-04-01,Wind and solar,1628.55,15.76,53.2,2.4
+United States,New York,2025-05-01,Bioenergy,117.5,1.11,27.02,1.26
+United States,New York,2025-05-01,Clean,6566.86,62.13,169.54,7.9
+United States,New York,2025-05-01,Coal,0.0,0.0,0.0,0.0
+United States,New York,2025-05-01,Fossil,4002.52,37.87,1977.39,92.1
+United States,New York,2025-05-01,Gas,3925.57,37.14,1923.53,89.59
+United States,New York,2025-05-01,Hydro,2403.84,22.74,57.69,2.69
+United States,New York,2025-05-01,Nuclear,2476.31,23.43,29.72,1.38
+United States,New York,2025-05-01,Other Fossil,76.95,0.73,53.86,2.51
+United States,New York,2025-05-01,Other Renewables,0.0,0.0,0.0,0.0
+United States,New York,2025-05-01,Renewables,4090.55,38.7,139.82,6.52
+United States,New York,2025-05-01,Solar,1022.96,9.68,49.1,2.29
+United States,New York,2025-05-01,Wind,546.25,5.17,6.01,0.28
+United States,New York,2025-05-01,Wind and solar,1569.21,14.85,55.11,2.57
 United States,North Carolina,2001-01-01,Bioenergy,157.29,1.5,36.18,0.64
 United States,North Carolina,2001-01-01,Clean,3721.49,35.4,80.7,1.43
 United States,North Carolina,2001-01-01,Coal,6622.63,63.0,5430.55,96.58
@@ -109262,6 +109649,19 @@ United States,North Carolina,2025-04-01,Renewables,1915.96,20.95,101.37,4.35
 United States,North Carolina,2025-04-01,Solar,1339.14,14.64,64.28,2.76
 United States,North Carolina,2025-04-01,Wind,100.32,1.1,1.1,0.05
 United States,North Carolina,2025-04-01,Wind and solar,1439.46,15.74,65.38,2.81
+United States,North Carolina,2025-05-01,Bioenergy,132.73,1.24,30.53,1.09
+United States,North Carolina,2025-05-01,Clean,5918.18,55.1,154.48,5.5
+United States,North Carolina,2025-05-01,Coal,841.78,7.84,690.26,24.64
+United States,North Carolina,2025-05-01,Fossil,4823.94,44.92,2647.06,94.49
+United States,North Carolina,2025-05-01,Gas,3955.79,36.83,1938.34,69.19
+United States,North Carolina,2025-05-01,Hydro,460.42,4.29,11.05,0.39
+United States,North Carolina,2025-05-01,Nuclear,3884.39,36.16,46.61,1.66
+United States,North Carolina,2025-05-01,Other Fossil,26.37,0.25,18.46,0.66
+United States,North Carolina,2025-05-01,Other Renewables,10.64,0.1,0.4,0.01
+United States,North Carolina,2025-05-01,Renewables,2033.79,18.94,107.87,3.84
+United States,North Carolina,2025-05-01,Solar,1355.58,12.62,65.07,2.32
+United States,North Carolina,2025-05-01,Wind,74.42,0.69,0.82,0.03
+United States,North Carolina,2025-05-01,Wind and solar,1430.0,13.31,65.89,2.35
 United States,North Dakota,2001-01-01,Bioenergy,0.64,0.02,0.15,0.01
 United States,North Dakota,2001-01-01,Clean,157.9,5.73,3.93,0.19
 United States,North Dakota,2001-01-01,Coal,2585.3,93.96,2119.95,99.55
@@ -112562,6 +112962,18 @@ United States,North Dakota,2025-04-01,Renewables,1699.55,54.2,21.36,1.87
 United States,North Dakota,2025-04-01,Solar,0.36,0.01,0.02,0.0
 United States,North Dakota,2025-04-01,Wind,1495.96,47.71,16.46,1.44
 United States,North Dakota,2025-04-01,Wind and solar,1496.32,47.72,16.48,1.44
+United States,North Dakota,2025-05-01,Bioenergy,0.0,0.0,0.0,0.0
+United States,North Dakota,2025-05-01,Clean,1514.28,49.44,19.28,1.56
+United States,North Dakota,2025-05-01,Coal,1391.19,45.42,1140.78,92.08
+United States,North Dakota,2025-05-01,Fossil,1548.46,50.56,1219.57,98.43
+United States,North Dakota,2025-05-01,Gas,149.04,4.87,73.03,5.89
+United States,North Dakota,2025-05-01,Hydro,200.54,6.55,4.81,0.39
+United States,North Dakota,2025-05-01,Other Fossil,8.23,0.27,5.76,0.46
+United States,North Dakota,2025-05-01,Other Renewables,0.0,0.0,0.0,0.0
+United States,North Dakota,2025-05-01,Renewables,1514.28,49.44,19.28,1.56
+United States,North Dakota,2025-05-01,Solar,0.38,0.01,0.02,0.0
+United States,North Dakota,2025-05-01,Wind,1313.36,42.88,14.45,1.17
+United States,North Dakota,2025-05-01,Wind and solar,1313.74,42.89,14.47,1.17
 United States,Ohio,2001-01-01,Bioenergy,41.78,0.32,9.61,0.1
 United States,Ohio,2001-01-01,Clean,1571.84,11.94,28.54,0.3
 United States,Ohio,2001-01-01,Coal,11492.71,87.31,9424.02,99.05
@@ -116139,6 +116551,19 @@ United States,Ohio,2025-04-01,Renewables,1146.58,13.82,48.5,1.21
 United States,Ohio,2025-04-01,Solar,780.41,9.4,37.46,0.94
 United States,Ohio,2025-04-01,Wind,296.1,3.57,3.26,0.08
 United States,Ohio,2025-04-01,Wind and solar,1076.51,12.97,40.72,1.02
+United States,Ohio,2025-05-01,Bioenergy,29.2,0.26,6.72,0.13
+United States,Ohio,2025-05-01,Clean,2769.35,24.65,69.91,1.37
+United States,Ohio,2025-05-01,Coal,2555.41,22.74,2095.43,41.3
+United States,Ohio,2025-05-01,Fossil,8469.55,75.36,5003.91,98.62
+United States,Ohio,2025-05-01,Gas,5863.85,52.17,2873.28,56.63
+United States,Ohio,2025-05-01,Hydro,48.91,0.44,1.17,0.02
+United States,Ohio,2025-05-01,Nuclear,1618.38,14.4,19.42,0.38
+United States,Ohio,2025-05-01,Other Fossil,50.29,0.45,35.2,0.69
+United States,Ohio,2025-05-01,Other Renewables,0.94,0.01,0.04,0.0
+United States,Ohio,2025-05-01,Renewables,1150.97,10.25,50.49,0.99
+United States,Ohio,2025-05-01,Solar,831.71,7.4,39.92,0.79
+United States,Ohio,2025-05-01,Wind,240.21,2.14,2.64,0.05
+United States,Ohio,2025-05-01,Wind and solar,1071.92,9.54,42.56,0.84
 United States,Oklahoma,2001-01-01,Bioenergy,19.65,0.44,4.52,0.14
 United States,Oklahoma,2001-01-01,Clean,220.48,4.91,9.34,0.29
 United States,Oklahoma,2001-01-01,Coal,3161.7,70.4,2592.59,81.67
@@ -119336,6 +119761,18 @@ United States,Oklahoma,2025-04-01,Renewables,3748.29,58.87,46.66,3.21
 United States,Oklahoma,2025-04-01,Solar,70.77,1.11,3.4,0.23
 United States,Oklahoma,2025-04-01,Wind,3544.63,55.67,38.99,2.69
 United States,Oklahoma,2025-04-01,Wind and solar,3615.4,56.78,42.39,2.92
+United States,Oklahoma,2025-05-01,Bioenergy,22.36,0.33,5.14,0.26
+United States,Oklahoma,2025-05-01,Clean,2991.8,44.72,43.68,2.22
+United States,Oklahoma,2025-05-01,Coal,333.7,4.99,273.63,13.92
+United States,Oklahoma,2025-05-01,Fossil,3697.49,55.27,1921.8,97.78
+United States,Oklahoma,2025-05-01,Gas,3364.18,50.29,1648.45,83.87
+United States,Oklahoma,2025-05-01,Hydro,166.09,2.48,3.99,0.2
+United States,Oklahoma,2025-05-01,Other Fossil,-0.39,-0.01,-0.28,-0.01
+United States,Oklahoma,2025-05-01,Other Renewables,4.34,0.06,0.16,0.01
+United States,Oklahoma,2025-05-01,Renewables,2991.8,44.72,43.68,2.22
+United States,Oklahoma,2025-05-01,Solar,97.38,1.46,4.67,0.24
+United States,Oklahoma,2025-05-01,Wind,2701.63,40.39,29.72,1.51
+United States,Oklahoma,2025-05-01,Wind and solar,2799.01,41.85,34.39,1.75
 United States,Oregon,2001-01-01,Bioenergy,48.19,1.16,11.08,1.3
 United States,Oregon,2001-01-01,Clean,2856.13,68.82,78.43,9.19
 United States,Oregon,2001-01-01,Coal,389.1,9.38,319.06,37.39
@@ -122610,6 +123047,17 @@ United States,Oregon,2025-04-01,Renewables,3916.15,78.91,105.11,17.04
 United States,Oregon,2025-04-01,Solar,349.04,7.03,16.75,2.72
 United States,Oregon,2025-04-01,Wind,891.67,17.97,9.81,1.59
 United States,Oregon,2025-04-01,Wind and solar,1240.71,25.0,26.56,4.31
+United States,Oregon,2025-05-01,Bioenergy,64.53,1.35,14.84,2.34
+United States,Oregon,2025-05-01,Clean,3687.08,77.09,98.56,15.53
+United States,Oregon,2025-05-01,Fossil,1095.57,22.91,535.94,84.47
+United States,Oregon,2025-05-01,Gas,1099.78,23.0,538.89,84.93
+United States,Oregon,2025-05-01,Hydro,2277.05,47.61,54.65,8.61
+United States,Oregon,2025-05-01,Other Fossil,-4.21,-0.09,-2.95,-0.46
+United States,Oregon,2025-05-01,Other Renewables,1.93,0.04,0.07,0.01
+United States,Oregon,2025-05-01,Renewables,3687.08,77.09,98.56,15.53
+United States,Oregon,2025-05-01,Solar,384.28,8.03,18.45,2.91
+United States,Oregon,2025-05-01,Wind,959.29,20.06,10.55,1.66
+United States,Oregon,2025-05-01,Wind and solar,1343.57,28.09,29.0,4.57
 United States,Pennsylvania,2001-01-01,Bioenergy,149.65,0.79,34.42,0.36
 United States,Pennsylvania,2001-01-01,Clean,7172.76,38.06,120.68,1.26
 United States,Pennsylvania,2001-01-01,Coal,10889.14,57.77,8929.1,93.21
@@ -126322,6 +126770,19 @@ United States,Pennsylvania,2025-04-01,Renewables,1028.13,5.88,52.18,0.9
 United States,Pennsylvania,2025-04-01,Solar,358.54,2.05,17.21,0.3
 United States,Pennsylvania,2025-04-01,Wind,385.19,2.21,4.24,0.07
 United States,Pennsylvania,2025-04-01,Wind and solar,743.73,4.26,21.45,0.37
+United States,Pennsylvania,2025-05-01,Bioenergy,120.06,0.62,27.61,0.42
+United States,Pennsylvania,2025-05-01,Clean,6472.7,33.44,119.99,1.81
+United States,Pennsylvania,2025-05-01,Coal,612.65,3.17,502.37,7.56
+United States,Pennsylvania,2025-05-01,Fossil,12878.93,66.55,6527.94,98.2
+United States,Pennsylvania,2025-05-01,Gas,12194.37,63.01,5975.24,89.88
+United States,Pennsylvania,2025-05-01,Hydro,213.82,1.1,5.13,0.08
+United States,Pennsylvania,2025-05-01,Nuclear,5427.7,28.05,65.13,0.98
+United States,Pennsylvania,2025-05-01,Other Fossil,71.91,0.37,50.33,0.76
+United States,Pennsylvania,2025-05-01,Other Renewables,2.59,0.01,0.1,0.0
+United States,Pennsylvania,2025-05-01,Renewables,1045.0,5.39,54.86,0.83
+United States,Pennsylvania,2025-05-01,Solar,384.49,1.99,18.46,0.28
+United States,Pennsylvania,2025-05-01,Wind,324.04,1.67,3.56,0.05
+United States,Pennsylvania,2025-05-01,Wind and solar,708.53,3.66,22.02,0.33
 United States,Puerto Rico,2016-01-01,Clean,0.0,,0.0,
 United States,Puerto Rico,2016-01-01,Coal,0.0,,0.0,
 United States,Puerto Rico,2016-01-01,Fossil,0.0,,0.0,
@@ -127545,6 +128006,17 @@ United States,Puerto Rico,2025-04-01,Renewables,32.84,2.89,0.99,0.14
 United States,Puerto Rico,2025-04-01,Solar,17.15,1.51,0.82,0.12
 United States,Puerto Rico,2025-04-01,Wind,15.69,1.38,0.17,0.02
 United States,Puerto Rico,2025-04-01,Wind and solar,32.84,2.89,0.99,0.14
+United States,Puerto Rico,2025-05-01,Bioenergy,0.0,0.0,0.0,0.0
+United States,Puerto Rico,2025-05-01,Clean,35.27,2.62,1.05,0.12
+United States,Puerto Rico,2025-05-01,Coal,307.55,22.9,252.2,30.51
+United States,Puerto Rico,2025-05-01,Fossil,1307.6,97.37,825.48,99.87
+United States,Puerto Rico,2025-05-01,Gas,603.61,44.95,295.77,35.78
+United States,Puerto Rico,2025-05-01,Hydro,0.0,0.0,0.0,0.0
+United States,Puerto Rico,2025-05-01,Other Fossil,396.44,29.52,277.51,33.58
+United States,Puerto Rico,2025-05-01,Renewables,35.27,2.62,1.05,0.12
+United States,Puerto Rico,2025-05-01,Solar,17.91,1.33,0.86,0.1
+United States,Puerto Rico,2025-05-01,Wind,17.36,1.29,0.19,0.02
+United States,Puerto Rico,2025-05-01,Wind and solar,35.27,2.62,1.05,0.12
 United States,Rhode Island,2001-01-01,Bioenergy,9.7,2.29,2.23,1.07
 United States,Rhode Island,2001-01-01,Clean,9.88,2.33,2.23,1.07
 United States,Rhode Island,2001-01-01,Fossil,413.99,97.67,206.78,98.93
@@ -130331,6 +130803,18 @@ United States,Rhode Island,2025-04-01,Renewables,133.53,18.56,8.59,2.91
 United States,Rhode Island,2025-04-01,Solar,96.93,13.47,4.65,1.57
 United States,Rhode Island,2025-04-01,Wind,20.42,2.84,0.22,0.08
 United States,Rhode Island,2025-04-01,Wind and solar,117.35,16.31,4.87,1.65
+United States,Rhode Island,2025-05-01,Bioenergy,16.57,2.01,3.81,1.1
+United States,Rhode Island,2025-05-01,Clean,134.45,16.3,8.81,2.54
+United States,Rhode Island,2025-05-01,Coal,0.0,0.0,0.0,0.0
+United States,Rhode Island,2025-05-01,Fossil,690.4,83.7,338.29,97.46
+United States,Rhode Island,2025-05-01,Gas,690.4,83.7,338.29,97.46
+United States,Rhode Island,2025-05-01,Hydro,0.0,0.0,0.0,0.0
+United States,Rhode Island,2025-05-01,Other Fossil,0.0,0.0,0.0,0.0
+United States,Rhode Island,2025-05-01,Other Renewables,0.0,0.0,0.0,0.0
+United States,Rhode Island,2025-05-01,Renewables,134.45,16.3,8.81,2.54
+United States,Rhode Island,2025-05-01,Solar,100.15,12.14,4.81,1.38
+United States,Rhode Island,2025-05-01,Wind,17.73,2.15,0.19,0.06
+United States,Rhode Island,2025-05-01,Wind and solar,117.88,14.29,5.0,1.44
 United States,South Carolina,2001-01-01,Bioenergy,114.89,1.5,26.43,0.85
 United States,South Carolina,2001-01-01,Clean,3923.12,51.31,72.61,2.34
 United States,South Carolina,2001-01-01,Coal,3620.49,47.35,2968.8,95.64
@@ -133288,6 +133772,17 @@ United States,South Carolina,2025-04-01,Other Fossil,7.07,0.08,4.95,0.26
 United States,South Carolina,2025-04-01,Renewables,731.62,8.6,54.08,2.82
 United States,South Carolina,2025-04-01,Solar,403.02,4.74,19.34,1.01
 United States,South Carolina,2025-04-01,Wind and solar,403.02,4.74,19.34,1.01
+United States,South Carolina,2025-05-01,Bioenergy,138.87,1.64,31.94,1.66
+United States,South Carolina,2025-05-01,Clean,5802.45,68.69,116.71,6.07
+United States,South Carolina,2025-05-01,Coal,1535.04,18.17,1258.73,65.55
+United States,South Carolina,2025-05-01,Fossil,2644.03,31.3,1803.69,93.93
+United States,South Carolina,2025-05-01,Gas,1101.56,13.04,539.76,28.11
+United States,South Carolina,2025-05-01,Hydro,248.75,2.94,5.97,0.31
+United States,South Carolina,2025-05-01,Nuclear,5030.81,59.56,60.37,3.14
+United States,South Carolina,2025-05-01,Other Fossil,7.43,0.09,5.2,0.27
+United States,South Carolina,2025-05-01,Renewables,771.64,9.13,56.34,2.93
+United States,South Carolina,2025-05-01,Solar,384.02,4.55,18.43,0.96
+United States,South Carolina,2025-05-01,Wind and solar,384.02,4.55,18.43,0.96
 United States,South Dakota,2001-01-01,Clean,274.15,43.63,6.58,2.25
 United States,South Dakota,2001-01-01,Coal,326.2,51.91,267.49,91.39
 United States,South Dakota,2001-01-01,Fossil,354.22,56.37,286.12,97.75
@@ -136492,6 +136987,18 @@ United States,South Dakota,2025-04-01,Renewables,1670.37,87.53,25.49,13.42
 United States,South Dakota,2025-04-01,Solar,45.82,2.4,2.2,1.16
 United States,South Dakota,2025-04-01,Wind,1207.35,63.27,13.28,6.99
 United States,South Dakota,2025-04-01,Wind and solar,1253.17,65.67,15.48,8.15
+United States,South Dakota,2025-05-01,Bioenergy,0.0,0.0,0.0,0.0
+United States,South Dakota,2025-05-01,Clean,1419.24,85.19,22.96,12.36
+United States,South Dakota,2025-05-01,Coal,127.19,7.63,104.3,56.13
+United States,South Dakota,2025-05-01,Fossil,246.72,14.81,162.87,87.65
+United States,South Dakota,2025-05-01,Gas,119.53,7.18,58.57,31.52
+United States,South Dakota,2025-05-01,Hydro,418.65,25.13,10.05,5.41
+United States,South Dakota,2025-05-01,Other Fossil,0.0,0.0,0.0,0.0
+United States,South Dakota,2025-05-01,Other Renewables,0.0,0.0,0.0,0.0
+United States,South Dakota,2025-05-01,Renewables,1419.24,85.19,22.96,12.36
+United States,South Dakota,2025-05-01,Solar,51.38,3.08,2.47,1.33
+United States,South Dakota,2025-05-01,Wind,949.21,56.98,10.44,5.62
+United States,South Dakota,2025-05-01,Wind and solar,1000.59,60.06,12.91,6.95
 United States,Tennessee,2001-01-01,Bioenergy,74.64,0.82,17.17,0.34
 United States,Tennessee,2001-01-01,Clean,3048.61,33.48,57.57,1.15
 United States,Tennessee,2001-01-01,Coal,5899.86,64.79,4837.89,96.71
@@ -140136,6 +140643,19 @@ United States,Tennessee,2025-04-01,Renewables,777.89,17.01,29.0,1.67
 United States,Tennessee,2025-04-01,Solar,111.48,2.44,5.35,0.31
 United States,Tennessee,2025-04-01,Wind,0.0,0.0,0.0,0.0
 United States,Tennessee,2025-04-01,Wind and solar,111.48,2.44,5.35,0.31
+United States,Tennessee,2025-05-01,Bioenergy,39.24,0.67,9.03,0.42
+United States,Tennessee,2025-05-01,Clean,2791.85,47.58,55.01,2.58
+United States,Tennessee,2025-05-01,Coal,1722.52,29.36,1412.47,66.3
+United States,Tennessee,2025-05-01,Fossil,3075.11,52.42,2075.45,97.42
+United States,Tennessee,2025-05-01,Gas,1351.56,23.04,662.26,31.09
+United States,Tennessee,2025-05-01,Hydro,750.16,12.79,18.0,0.85
+United States,Tennessee,2025-05-01,Nuclear,1892.29,32.25,22.71,1.07
+United States,Tennessee,2025-05-01,Other Fossil,1.03,0.02,0.72,0.03
+United States,Tennessee,2025-05-01,Other Renewables,1.99,0.03,0.08,0.0
+United States,Tennessee,2025-05-01,Renewables,899.56,15.33,32.3,1.51
+United States,Tennessee,2025-05-01,Solar,108.17,1.84,5.19,0.24
+United States,Tennessee,2025-05-01,Wind,0.0,0.0,0.0,0.0
+United States,Tennessee,2025-05-01,Wind and solar,108.17,1.84,5.19,0.24
 United States,Texas,2001-01-01,Bioenergy,92.02,0.3,21.17,0.12
 United States,Texas,2001-01-01,Clean,3863.83,12.5,68.11,0.39
 United States,Texas,2001-01-01,Coal,11683.91,37.79,9580.81,54.68
@@ -143824,6 +144344,19 @@ United States,Texas,2025-04-01,Renewables,18491.4,41.87,404.89,3.14
 United States,Texas,2025-04-01,Solar,5052.37,11.44,242.51,1.88
 United States,Texas,2025-04-01,Wind,13289.6,30.09,146.19,1.13
 United States,Texas,2025-04-01,Wind and solar,18341.97,41.53,388.7,3.01
+United States,Texas,2025-05-01,Bioenergy,66.52,0.13,15.3,0.09
+United States,Texas,2025-05-01,Clean,20090.51,40.3,464.79,2.78
+United States,Texas,2025-05-01,Coal,4902.17,9.83,4019.78,24.06
+United States,Texas,2025-05-01,Fossil,29764.43,59.7,16240.85,97.22
+United States,Texas,2025-05-01,Gas,24678.6,49.5,12092.51,72.39
+United States,Texas,2025-05-01,Hydro,115.27,0.23,2.77,0.02
+United States,Texas,2025-05-01,Nuclear,3298.13,6.62,39.58,0.24
+United States,Texas,2025-05-01,Other Fossil,183.66,0.37,128.56,0.77
+United States,Texas,2025-05-01,Other Renewables,0.0,0.0,0.0,0.0
+United States,Texas,2025-05-01,Renewables,16792.38,33.68,425.21,2.54
+United States,Texas,2025-05-01,Solar,6065.47,12.17,291.14,1.74
+United States,Texas,2025-05-01,Wind,10545.12,21.15,116.0,0.69
+United States,Texas,2025-05-01,Wind and solar,16610.59,33.32,407.14,2.43
 United States,US Total,2001-01-01,Bioenergy,4399.86,1.33,1011.97,0.56
 United States,US Total,2001-01-01,Clean,93084.53,28.06,2329.4,1.28
 United States,US Total,2001-01-01,Coal,177287.11,53.44,145375.43,79.97
@@ -147596,6 +148129,19 @@ United States,US Total,2025-04-01,Renewables,108207.27,32.79,3581.5,3.58
 United States,US Total,2025-04-01,Solar,35439.52,10.74,1701.1,1.7
 United States,US Total,2025-04-01,Wind,45731.48,13.86,503.05,0.5
 United States,US Total,2025-04-01,Wind and solar,81171.0,24.6,2204.15,2.2
+United States,US Total,2025-05-01,Bioenergy,3751.99,1.06,862.96,0.77
+United States,US Total,2025-05-01,Clean,166878.68,47.28,4506.5,4.02
+United States,US Total,2025-05-01,Coal,48744.04,13.81,39970.11,35.64
+United States,US Total,2025-05-01,Fossil,185992.4,52.71,107658.53,95.99
+United States,US Total,2025-05-01,Gas,135168.7,38.31,66232.66,59.05
+United States,US Total,2025-05-01,Hydro,23763.04,6.73,570.31,0.51
+United States,US Total,2025-05-01,Nuclear,62144.82,17.61,745.74,0.66
+United States,US Total,2025-05-01,Other Fossil,2079.66,0.59,1455.76,1.3
+United States,US Total,2025-05-01,Other Renewables,1346.87,0.38,51.18,0.05
+United States,US Total,2025-05-01,Renewables,104733.86,29.67,3760.76,3.36
+United States,US Total,2025-05-01,Solar,38965.45,11.04,1870.34,1.67
+United States,US Total,2025-05-01,Wind,36906.51,10.46,405.97,0.36
+United States,US Total,2025-05-01,Wind and solar,75871.96,21.5,2276.31,2.03
 United States,Utah,2001-01-01,Bioenergy,0.51,0.02,0.12,0.01
 United States,Utah,2001-01-01,Clean,54.04,1.83,1.6,0.07
 United States,Utah,2001-01-01,Coal,2768.62,93.62,2270.27,97.07
@@ -150796,6 +151342,18 @@ United States,Utah,2025-04-01,Renewables,769.53,33.54,33.6,3.07
 United States,Utah,2025-04-01,Solar,599.88,26.15,28.79,2.62
 United States,Utah,2025-04-01,Wind,55.34,2.41,0.61,0.06
 United States,Utah,2025-04-01,Wind and solar,655.22,28.56,29.4,2.68
+United States,Utah,2025-05-01,Bioenergy,5.48,0.21,1.26,0.1
+United States,Utah,2025-05-01,Clean,835.57,31.97,37.19,2.91
+United States,Utah,2025-05-01,Coal,1110.19,42.48,910.36,71.22
+United States,Utah,2025-05-01,Fossil,1777.79,68.03,1241.1,97.09
+United States,Utah,2025-05-01,Gas,650.4,24.89,318.7,24.93
+United States,Utah,2025-05-01,Hydro,75.64,2.89,1.82,0.14
+United States,Utah,2025-05-01,Other Fossil,17.2,0.66,12.04,0.94
+United States,Utah,2025-05-01,Other Renewables,30.02,1.15,1.14,0.09
+United States,Utah,2025-05-01,Renewables,835.57,31.97,37.19,2.91
+United States,Utah,2025-05-01,Solar,675.88,25.86,32.44,2.54
+United States,Utah,2025-05-01,Wind,48.55,1.86,0.53,0.04
+United States,Utah,2025-05-01,Wind and solar,724.43,27.72,32.97,2.58
 United States,Vermont,2001-01-01,Bioenergy,40.73,7.43,9.37,33.42
 United States,Vermont,2001-01-01,Clean,530.8,96.83,16.41,58.53
 United States,Vermont,2001-01-01,Fossil,17.41,3.17,11.62,41.46
@@ -153764,6 +154322,16 @@ United States,Vermont,2025-04-01,Renewables,210.98,99.82,5.7,96.33
 United States,Vermont,2025-04-01,Solar,49.22,23.29,2.36,39.93
 United States,Vermont,2025-04-01,Wind,41.92,19.83,0.46,7.79
 United States,Vermont,2025-04-01,Wind and solar,91.14,43.12,2.82,47.72
+United States,Vermont,2025-05-01,Bioenergy,34.92,13.51,8.03,56.29
+United States,Vermont,2025-05-01,Clean,258.39,99.95,14.17,99.36
+United States,Vermont,2025-05-01,Fossil,0.13,0.05,0.09,0.64
+United States,Vermont,2025-05-01,Gas,0.0,0.0,0.0,0.0
+United States,Vermont,2025-05-01,Hydro,145.4,56.24,3.49,24.46
+United States,Vermont,2025-05-01,Other Fossil,0.13,0.05,0.09,0.64
+United States,Vermont,2025-05-01,Renewables,258.39,99.95,14.17,99.36
+United States,Vermont,2025-05-01,Solar,48.53,18.77,2.33,16.33
+United States,Vermont,2025-05-01,Wind,29.54,11.43,0.32,2.28
+United States,Vermont,2025-05-01,Wind and solar,78.07,30.2,2.65,18.61
 United States,Virginia,2001-01-01,Bioenergy,160.96,2.26,37.02,1.04
 United States,Virginia,2001-01-01,Clean,2649.84,37.23,66.1,1.86
 United States,Virginia,2001-01-01,Coal,3547.02,49.84,2908.55,81.48
@@ -157008,6 +157576,19 @@ United States,Virginia,2025-04-01,Renewables,1243.53,17.51,99.89,5.56
 United States,Virginia,2025-04-01,Solar,1024.58,14.43,49.18,2.74
 United States,Virginia,2025-04-01,Wind,5.17,0.07,0.06,0.0
 United States,Virginia,2025-04-01,Wind and solar,1029.75,14.5,49.24,2.74
+United States,Virginia,2025-05-01,Bioenergy,295.01,3.91,67.85,3.59
+United States,Virginia,2025-05-01,Clean,4026.12,53.35,148.84,7.87
+United States,Virginia,2025-05-01,Coal,23.97,0.32,19.65,1.04
+United States,Virginia,2025-05-01,Fossil,3521.08,46.65,1743.59,92.13
+United States,Virginia,2025-05-01,Gas,3447.78,45.68,1689.41,89.27
+United States,Virginia,2025-05-01,Hydro,29.21,0.39,0.7,0.04
+United States,Virginia,2025-05-01,Nuclear,2700.94,35.79,32.41,1.71
+United States,Virginia,2025-05-01,Other Fossil,49.33,0.65,34.53,1.82
+United States,Virginia,2025-05-01,Other Renewables,1.35,0.02,0.05,0.0
+United States,Virginia,2025-05-01,Renewables,1325.18,17.56,116.43,6.16
+United States,Virginia,2025-05-01,Solar,995.66,13.19,47.79,2.53
+United States,Virginia,2025-05-01,Wind,3.95,0.05,0.04,0.0
+United States,Virginia,2025-05-01,Wind and solar,999.61,13.24,47.83,2.53
 United States,Washington,2001-01-01,Bioenergy,114.4,1.37,26.31,1.9
 United States,Washington,2001-01-01,Clean,6505.16,78.17,169.63,12.27
 United States,Washington,2001-01-01,Coal,830.62,9.98,681.11,49.28
@@ -160698,6 +161279,19 @@ United States,Washington,2025-04-01,Renewables,7128.92,85.45,181.03,26.99
 United States,Washington,2025-04-01,Solar,142.82,1.71,6.86,1.02
 United States,Washington,2025-04-01,Wind,784.87,9.41,8.63,1.29
 United States,Washington,2025-04-01,Wind and solar,927.69,11.12,15.49,2.31
+United States,Washington,2025-05-01,Bioenergy,95.0,1.18,21.85,3.63
+United States,Washington,2025-05-01,Clean,7215.73,89.64,187.23,31.08
+United States,Washington,2025-05-01,Coal,1.88,0.02,1.54,0.26
+United States,Washington,2025-05-01,Fossil,835.25,10.37,415.16,68.93
+United States,Washington,2025-05-01,Gas,808.27,10.04,396.05,65.75
+United States,Washington,2025-05-01,Hydro,6235.96,77.46,149.66,24.84
+United States,Washington,2025-05-01,Nuclear,-3.32,-0.04,-0.04,-0.01
+United States,Washington,2025-05-01,Other Fossil,25.1,0.31,17.57,2.92
+United States,Washington,2025-05-01,Other Renewables,1.21,0.02,0.05,0.01
+United States,Washington,2025-05-01,Renewables,7219.05,89.68,187.27,31.09
+United States,Washington,2025-05-01,Solar,161.06,2.0,7.73,1.28
+United States,Washington,2025-05-01,Wind,725.82,9.02,7.98,1.33
+United States,Washington,2025-05-01,Wind and solar,886.88,11.02,15.71,2.61
 United States,"Washington, D.C.",2001-01-01,Fossil,9.25,100.0,6.48,100.0
 United States,"Washington, D.C.",2001-01-01,Other Fossil,9.25,100.0,6.48,100.0
 United States,"Washington, D.C.",2001-02-01,Fossil,0.0,,0.0,
@@ -162236,6 +162830,15 @@ United States,"Washington, D.C.",2025-04-01,Other Renewables,4.35,10.43,0.17,6.0
 United States,"Washington, D.C.",2025-04-01,Renewables,41.7,100.0,2.75,100.0
 United States,"Washington, D.C.",2025-04-01,Solar,33.0,79.14,1.58,57.61
 United States,"Washington, D.C.",2025-04-01,Wind and solar,33.0,79.14,1.58,57.61
+United States,"Washington, D.C.",2025-05-01,Bioenergy,5.05,10.94,1.16,37.66
+United States,"Washington, D.C.",2025-05-01,Clean,46.19,100.0,3.08,100.0
+United States,"Washington, D.C.",2025-05-01,Fossil,0.0,0.0,0.0,0.0
+United States,"Washington, D.C.",2025-05-01,Gas,0.0,0.0,0.0,0.0
+United States,"Washington, D.C.",2025-05-01,Other Fossil,0.0,0.0,0.0,0.0
+United States,"Washington, D.C.",2025-05-01,Other Renewables,5.05,10.94,0.19,6.22
+United States,"Washington, D.C.",2025-05-01,Renewables,46.19,100.0,3.08,100.0
+United States,"Washington, D.C.",2025-05-01,Solar,36.09,78.12,1.73,56.12
+United States,"Washington, D.C.",2025-05-01,Wind and solar,36.09,78.12,1.73,56.12
 United States,West Virginia,2001-01-01,Bioenergy,1.06,0.01,0.24,0.0
 United States,West Virginia,2001-01-01,Clean,80.09,0.92,2.14,0.03
 United States,West Virginia,2001-01-01,Coal,8533.58,98.62,6997.53,99.61
@@ -165339,6 +165942,17 @@ United States,West Virginia,2025-04-01,Renewables,346.13,8.7,6.57,0.22
 United States,West Virginia,2025-04-01,Solar,32.78,0.82,1.57,0.05
 United States,West Virginia,2025-04-01,Wind,193.73,4.87,2.13,0.07
 United States,West Virginia,2025-04-01,Wind and solar,226.51,5.69,3.7,0.12
+United States,West Virginia,2025-05-01,Bioenergy,0.0,0.0,0.0,0.0
+United States,West Virginia,2025-05-01,Clean,365.62,11.66,7.23,0.32
+United States,West Virginia,2025-05-01,Coal,2604.51,83.01,2135.7,95.18
+United States,West Virginia,2025-05-01,Fossil,2771.91,88.34,2236.52,99.67
+United States,West Virginia,2025-05-01,Gas,77.88,2.48,38.16,1.7
+United States,West Virginia,2025-05-01,Hydro,147.11,4.69,3.53,0.16
+United States,West Virginia,2025-05-01,Other Fossil,89.52,2.85,62.66,2.79
+United States,West Virginia,2025-05-01,Renewables,365.62,11.66,7.23,0.32
+United States,West Virginia,2025-05-01,Solar,35.04,1.12,1.68,0.07
+United States,West Virginia,2025-05-01,Wind,183.47,5.85,2.02,0.09
+United States,West Virginia,2025-05-01,Wind and solar,218.51,6.97,3.7,0.16
 United States,Wisconsin,2001-01-01,Bioenergy,92.84,1.74,21.35,0.65
 United States,Wisconsin,2001-01-01,Clean,1360.35,25.46,38.25,1.16
 United States,Wisconsin,2001-01-01,Coal,3859.04,72.24,3164.41,96.78
@@ -168979,6 +169593,19 @@ United States,Wisconsin,2025-04-01,Renewables,886.51,21.07,43.11,2.35
 United States,Wisconsin,2025-04-01,Solar,419.6,9.97,20.14,1.1
 United States,Wisconsin,2025-04-01,Wind,207.67,4.94,2.28,0.12
 United States,Wisconsin,2025-04-01,Wind and solar,627.27,14.91,22.42,1.22
+United States,Wisconsin,2025-05-01,Bioenergy,79.45,1.61,18.27,0.88
+United States,Wisconsin,2025-05-01,Clean,1810.97,36.75,59.71,2.86
+United States,Wisconsin,2025-05-01,Coal,1508.88,30.62,1237.28,59.29
+United States,Wisconsin,2025-05-01,Fossil,3117.06,63.26,2027.11,97.14
+United States,Wisconsin,2025-05-01,Gas,1599.48,32.46,783.74,37.56
+United States,Wisconsin,2025-05-01,Hydro,182.66,3.71,4.38,0.21
+United States,Wisconsin,2025-05-01,Nuclear,895.53,18.17,10.75,0.51
+United States,Wisconsin,2025-05-01,Other Fossil,8.7,0.18,6.09,0.29
+United States,Wisconsin,2025-05-01,Other Renewables,2.94,0.06,0.11,0.01
+United States,Wisconsin,2025-05-01,Renewables,915.44,18.58,48.96,2.35
+United States,Wisconsin,2025-05-01,Solar,514.89,10.45,24.71,1.18
+United States,Wisconsin,2025-05-01,Wind,135.5,2.75,1.49,0.07
+United States,Wisconsin,2025-05-01,Wind and solar,650.39,13.2,26.2,1.25
 United States,Wyoming,2001-01-01,Clean,69.56,1.73,1.33,0.04
 United States,Wyoming,2001-01-01,Coal,3882.45,96.56,3183.61,98.84
 United States,Wyoming,2001-01-01,Fossil,3951.12,98.26,3219.49,99.95
@@ -171743,3 +172370,13 @@ United States,Wyoming,2025-04-01,Renewables,1206.1,37.22,16.43,1.05
 United States,Wyoming,2025-04-01,Solar,54.5,1.68,2.62,0.17
 United States,Wyoming,2025-04-01,Wind,1063.65,32.83,11.7,0.75
 United States,Wyoming,2025-04-01,Wind and solar,1118.15,34.51,14.32,0.92
+United States,Wyoming,2025-05-01,Clean,1083.22,35.64,15.19,1.0
+United States,Wyoming,2025-05-01,Coal,1634.81,53.79,1340.55,88.2
+United States,Wyoming,2025-05-01,Fossil,1956.06,64.36,1504.79,99.01
+United States,Wyoming,2025-05-01,Gas,288.72,9.5,141.47,9.31
+United States,Wyoming,2025-05-01,Hydro,88.93,2.93,2.13,0.14
+United States,Wyoming,2025-05-01,Other Fossil,32.53,1.07,22.77,1.5
+United States,Wyoming,2025-05-01,Renewables,1083.22,35.64,15.19,1.0
+United States,Wyoming,2025-05-01,Solar,57.25,1.88,2.75,0.18
+United States,Wyoming,2025-05-01,Wind,937.04,30.83,10.31,0.68
+United States,Wyoming,2025-05-01,Wind and solar,994.29,32.71,13.06,0.86
