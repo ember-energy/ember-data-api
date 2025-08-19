@@ -16125,13 +16125,13 @@ Dominican Republic,DOM,2023,Solar,1.36,1.08,5.54,0.06,North America,Latin Americ
 Dominican Republic,DOM,2023,Wind,1.2,0.42,4.89,0.01,North America,Latin America and Caribbean,0.0,0.0,0.0,0.0,75.0,9.0,,,52.0,2024,2040,2040
 Dominican Republic,DOM,2023,Wind and solar,2.56,1.5,10.43,0.07,North America,Latin America and Caribbean,0.0,0.0,0.0,0.0,75.0,9.0,,,,2024,2040,2040
 Dominican Republic,DOM,2024,Bioenergy,0.22,0.08,0.85,0.05,North America,Latin America and Caribbean,0.0,0.0,0.0,0.0,75.0,9.0,,,72.0,2024,2040,2040
-Dominican Republic,DOM,2024,Clean,4.8,2.56,18.52,0.18,North America,Latin America and Caribbean,0.0,0.0,0.0,0.0,75.0,9.0,,,,2024,2040,2040
-Dominican Republic,DOM,2024,Coal,7.8,1.06,30.09,6.8,North America,Latin America and Caribbean,0.0,0.0,0.0,0.0,75.0,9.0,,,39.0,2024,2040,2040
-Dominican Republic,DOM,2024,Fossil,21.12,5.04,81.48,14.49,North America,Latin America and Caribbean,0.0,0.0,0.0,0.0,75.0,9.0,,,,2024,2040,2040
-Dominican Republic,DOM,2024,Gas,8.3,2.24,32.02,4.39,North America,Latin America and Caribbean,0.0,0.0,0.0,0.0,75.0,9.0,,,67.0,2024,2040,2040
-Dominican Republic,DOM,2024,Hydro,1.79,0.63,6.91,0.04,North America,Latin America and Caribbean,0.0,0.0,0.0,0.0,75.0,9.0,,,96.0,2024,2040,2040
+Dominican Republic,DOM,2024,Clean,4.81,2.56,18.55,0.18,North America,Latin America and Caribbean,0.0,0.0,0.0,0.0,75.0,9.0,,,,2024,2040,2040
+Dominican Republic,DOM,2024,Coal,7.81,1.06,30.11,6.81,North America,Latin America and Caribbean,0.0,0.0,0.0,0.0,75.0,9.0,,,39.0,2024,2040,2040
+Dominican Republic,DOM,2024,Fossil,21.13,5.04,81.46,14.5,North America,Latin America and Caribbean,0.0,0.0,0.0,0.0,75.0,9.0,,,,2024,2040,2040
+Dominican Republic,DOM,2024,Gas,8.3,2.24,32.0,4.39,North America,Latin America and Caribbean,0.0,0.0,0.0,0.0,75.0,9.0,,,67.0,2024,2040,2040
+Dominican Republic,DOM,2024,Hydro,1.8,0.63,6.94,0.04,North America,Latin America and Caribbean,0.0,0.0,0.0,0.0,75.0,9.0,,,96.0,2024,2040,2040
 Dominican Republic,DOM,2024,Nuclear,0.0,,0.0,0.0,North America,Latin America and Caribbean,0.0,0.0,0.0,0.0,75.0,9.0,,,84.0,2024,2040,2040
-Dominican Republic,DOM,2024,Other Fossil,5.02,1.74,19.37,3.3,North America,Latin America and Caribbean,0.0,0.0,0.0,0.0,75.0,9.0,,,31.0,2024,2040,2040
+Dominican Republic,DOM,2024,Other Fossil,5.02,1.74,19.35,3.3,North America,Latin America and Caribbean,0.0,0.0,0.0,0.0,75.0,9.0,,,31.0,2024,2040,2040
 Dominican Republic,DOM,2024,Other Renewables,0.0,,0.0,0.0,North America,Latin America and Caribbean,0.0,0.0,0.0,0.0,75.0,9.0,,,142.0,2024,2040,2040
 Dominican Republic,DOM,2024,Solar,1.69,1.42,6.52,0.08,North America,Latin America and Caribbean,0.0,0.0,0.0,0.0,75.0,9.0,,,50.0,2024,2040,2040
 Dominican Republic,DOM,2024,Wind,1.1,0.43,4.24,0.01,North America,Latin America and Caribbean,0.0,0.0,0.0,0.0,75.0,9.0,,,52.0,2024,2040,2040
@@ -31996,11 +31996,11 @@ Latin America and Caribbean,,2023,Solar,104.88,65.72,5.87,4.99,,,,,,,,,,,,2024,2
 Latin America and Caribbean,,2023,Wind,154.31,49.72,8.64,1.19,,,,,,,,,,,,2024,2040,2040
 Latin America and Caribbean,,2023,Wind and solar,259.19,115.44,14.51,6.18,,,,,,,,,,,,2024,2040,2040
 Latin America and Caribbean,,2024,Bioenergy,87.96,24.07,4.78,19.09,,,,,,,,,,,,2024,2040,2040
-Latin America and Caribbean,,2024,Clean,1187.34,371.82,64.55,44.99,,,,,,,,,,,,2024,2040,2040
-Latin America and Caribbean,,2024,Coal,71.83,16.42,3.91,63.45,,,,,,,,,,,,2024,2040,2040
-Latin America and Caribbean,,2024,Fossil,651.88,230.38,35.45,422.55,,,,,,,,,,,,2024,2040,2040
+Latin America and Caribbean,,2024,Clean,1187.35,371.82,64.55,44.99,,,,,,,,,,,,2024,2040,2040
+Latin America and Caribbean,,2024,Coal,71.84,16.42,3.91,63.46,,,,,,,,,,,,2024,2040,2040
+Latin America and Caribbean,,2024,Fossil,651.89,230.38,35.45,422.56,,,,,,,,,,,,2024,2040,2040
 Latin America and Caribbean,,2024,Gas,452.18,127.34,24.59,274.86,,,,,,,,,,,,2024,2040,2040
-Latin America and Caribbean,,2024,Hydro,751.56,200.16,40.86,17.86,,,,,,,,,,,,2024,2040,2040
+Latin America and Caribbean,,2024,Hydro,751.57,200.16,40.86,17.86,,,,,,,,,,,,2024,2040,2040
 Latin America and Caribbean,,2024,Nuclear,38.54,5.35,2.1,0.18,,,,,,,,,,,,2024,2040,2040
 Latin America and Caribbean,,2024,Other Fossil,127.87,86.62,6.95,84.24,,,,,,,,,,,,2024,2040,2040
 Latin America and Caribbean,,2024,Other Renewables,4.95,1.86,0.27,0.19,,,,,,,,,,,,2024,2040,2040
@@ -62113,11 +62113,11 @@ World,,2023,Solar,1660.38,1413.55,5.6,79.04,,,,,,,,,,,,2024,2040,2040
 World,,2023,Wind,2313.94,1019.6,7.8,26.96,,,,,,,,,,,,2024,2040,2040
 World,,2023,Wind and solar,3974.32,2433.15,13.4,106.0,,,,,,,,,,,,2024,2040,2040
 World,,2024,Bioenergy,699.95,129.0,2.26,152.2,,,,,,,,,,,,2024,2040,2040
-World,,2024,Clean,12606.67,4847.31,40.79,405.5,,,,,,,,,,,,2024,2040,2040
-World,,2024,Coal,10541.51,2174.71,34.1,9549.25,,,,,,,,,,,,2024,2040,2040
-World,,2024,Fossil,18307.7,4548.4,59.22,14215.56,,,,,,,,,,,,2024,2040,2040
+World,,2024,Clean,12606.68,4847.31,40.79,405.5,,,,,,,,,,,,2024,2040,2040
+World,,2024,Coal,10541.52,2174.71,34.1,9549.26,,,,,,,,,,,,2024,2040,2040
+World,,2024,Fossil,18307.71,4548.4,59.22,14215.57,,,,,,,,,,,,2024,2040,2040
 World,,2024,Gas,6891.6,2055.68,22.29,4089.32,,,,,,,,,,,,2024,2040,2040
-World,,2024,Hydro,4408.46,1283.04,14.26,104.84,,,,,,,,,,,,2024,2040,2040
+World,,2024,Hydro,4408.47,1283.04,14.26,104.84,,,,,,,,,,,,2024,2040,2040
 World,,2024,Nuclear,2777.72,399.26,8.99,14.58,,,,,,,,,,,,2024,2040,2040
 World,,2024,Other Fossil,874.59,318.01,2.83,576.99,,,,,,,,,,,,2024,2040,2040
 World,,2024,Other Renewables,88.67,37.68,0.29,3.35,,,,,,,,,,,,2024,2040,2040
