@@ -3,3 +3,4 @@ sqlite-utils
 SQLAlchemy==1.4.36
 pandas==1.5.3
 pymysql
+numpy==1.26.4
