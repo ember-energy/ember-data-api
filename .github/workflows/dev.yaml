@@ -1,0 +1,69 @@
+name: deploy-cloudrun
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - "main"
+
+env:
+  REGION: europe-north1
+  ARTEFACT_REPO: ar-docker
+  IMAGE_NAME: ember-data-api
+  SERVICE_NAME: ember-data-api-service
+
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: 'write'
+      id-token: 'write'
+
+    steps:
+      - name: Set dynamic env variables
+        id: env_variables
+        run: |-
+          echo "REGISTRY=${{env.REGION }}-docker.pkg.dev" >> "$GITHUB_ENV"
+
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Google Auth
+        id: auth
+        uses: 'google-github-actions/auth@v2'
+        with:
+          credentials_json: '${{ secrets.GCP_CREDENTIALS_B64 }}'
+
+      # Authenticate Docker to Google Cloud Artifact Registry
+      - name: Configure Docker Client
+        run: |-
+          gcloud auth configure-docker --quiet
+          gcloud auth configure-docker ${{ env.REGISTRY }} --quiet
+
+      - name: Test auth
+        run: |
+          gcloud auth list
+
+      - name: Build API image
+        run: |
+          docker build \
+            --file=Dockerfile \
+            --tag=${{ env.REGISTRY }}/${{ secrets.GOOGLE_PROJECT_ID }}/${{ env.ARTEFACT_REPO }}/${{ env.IMAGE_NAME }}:latest \
+            .
+          docker push ${{ env.REGISTRY }}/${{ secrets.GOOGLE_PROJECT_ID }}/${{ env.ARTEFACT_REPO }}/${{ env.IMAGE_NAME }}:latest
+
+      # TODO: Is GCP_CREDENTIALS secret needed?
+      # default service account for cloud run?
+      - name: Deploy to Cloud Run
+        id: deploy
+        uses: google-github-actions/deploy-cloudrun@v1
+        with:
+          service: ${{ env.SERVICE_NAME }}
+          region: ${{ env.REGION }}
+          image: ${{ env.REGION }}-docker.pkg.dev/${{ secrets.GOOGLE_PROJECT_ID }}/${{ env.ARTEFACT_REPO }}/${{ env.IMAGE_NAME }}:latest
+          # env_vars: DATABASE_URL=${{ secrets.DATABASE_URL_DEV }},GCP_CREDENTIALS=${{ secrets.GCP_CREDENTIALS }}
+          flags: '--port=8000'
+      # If required, use the Cloud Run url output in later steps
+      - name: Show Output
+        run: echo ${{ steps.deploy.outputs.url }}
