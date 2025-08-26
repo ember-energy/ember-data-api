@@ -12,4 +12,4 @@ RUN uv venv
 RUN uv pip install -r requirements.txt
 
 EXPOSE ${PORT}
-CMD [ "uv", "run", "datasette", ".", "-h", "0.0.0.0", "-p", ${PORT}, "--metadata", "metadata.json", "--cors", "--setting", "settings.json" ]
+CMD uv run datasette . -h 0.0.0.0 -p ${PORT} --metadata metadata.json --cors
