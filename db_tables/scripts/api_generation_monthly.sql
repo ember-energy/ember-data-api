@@ -242,11 +242,9 @@ FROM
     LEFT JOIN eu_demand_rank ON generation.country_or_region = eu_demand_rank.country_name
     LEFT JOIN latest_actual_month ON generation.country_or_region = latest_actual_month.country_or_region
 WHERE
-    (
-        (generation.country_or_region = 'World' AND generation_date BETWEEN '2000-01-01' AND '2025-04-01') 
-        OR 
-        (generation_date BETWEEN '2000-01-01' AND latest_actual_month.max_monthly_actual_generation_date)
-    )
+    generation_date >= '2000-01-01'
+    AND (generation_date BETWEEN '2000-01-01' AND latest_actual_month.max_monthly_actual_generation_date)
+    AND NOT (generation.country_or_region = 'World' AND generation_date >= '2025-06-01') 
     AND generation.country_or_region IS NOT NULL
 ORDER BY
     country_or_region,
