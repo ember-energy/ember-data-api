@@ -1221,18 +1221,18 @@ India,India Total,2024,Solar,133795.06,7.41,97864.72,6422.16,0.57
 India,India Total,2024,Wind,81544.15,4.52,48163.16,896.99,0.08
 India,India Total,2024,Wind and solar,215339.21,11.93,146027.88,7319.15,0.65
 India,India Total,2025,Bioenergy,14262.14,0.78,11610.18,3280.29,0.3
-India,India Total,2025,Clean,516451.72,28.27,266490.77,17316.17,1.6
-India,India Total,2025,Coal,1284459.13,70.3,226256.84,1053256.48,97.21
-India,India Total,2025,Fossil,1310740.73,71.74,246941.62,1066211.85,98.4
-India,India Total,2025,Gas,25913.12,1.42,20122.41,12697.43,1.17
+India,India Total,2025,Clean,516451.72,28.25,266490.77,17316.17,1.6
+India,India Total,2025,Coal,1284718.5,70.3,226256.84,1053469.17,97.21
+India,India Total,2025,Fossil,1311000.11,71.74,246941.62,1066424.54,98.4
+India,India Total,2025,Gas,25913.13,1.42,20122.41,12697.43,1.17
 India,India Total,2025,Hydro,177270.58,9.7,56037.27,4254.49,0.39
-India,India Total,2025,Nuclear,53815.46,2.95,8780.0,645.79,0.06
+India,India Total,2025,Nuclear,53815.46,2.94,8780.0,645.79,0.06
 India,India Total,2025,Other Fossil,368.48,0.02,562.37,257.94,0.02
 India,India Total,2025,Other Renewables,2911.95,0.16,,110.65,0.01
-India,India Total,2025,Renewables,462636.26,25.32,257710.77,16670.38,1.54
-India,India Total,2025,Solar,164185.05,8.99,135556.69,7880.88,0.73
+India,India Total,2025,Renewables,462636.26,25.31,257710.77,16670.38,1.54
+India,India Total,2025,Solar,164185.05,8.98,135556.69,7880.88,0.73
 India,India Total,2025,Wind,104006.54,5.69,54506.63,1144.07,0.11
-India,India Total,2025,Wind and solar,268191.59,14.68,190063.32,9024.95,0.84
+India,India Total,2025,Wind and solar,268191.59,14.67,190063.32,9024.95,0.84
 India,Jammu and Kashmir,2019,Bioenergy,0.0,0.0,0.0,0.0,0.0
 India,Jammu and Kashmir,2019,Clean,18508.58,100.0,3648.78,444.21,100.0
 India,Jammu and Kashmir,2019,Coal,0.0,0.0,0.0,0.0,0.0
@@ -1496,8 +1496,8 @@ India,Karnataka,2024,Wind and solar,28161.46,29.41,15718.24,879.5,2.33
 India,Karnataka,2025,Bioenergy,3378.33,3.18,1917.05,777.02,2.08
 India,Karnataka,2025,Clean,63296.96,59.52,26827.63,2328.49,6.22
 India,Karnataka,2025,Coal,42489.31,39.95,9480.0,34841.24,93.04
-India,Karnataka,2025,Fossil,43053.84,40.48,9875.25,35117.86,93.78
-India,Karnataka,2025,Gas,564.53,0.53,370.05,276.62,0.74
+India,Karnataka,2025,Fossil,43053.85,40.48,9875.25,35117.86,93.78
+India,Karnataka,2025,Gas,564.54,0.53,370.05,276.62,0.74
 India,Karnataka,2025,Hydro,18863.27,17.74,4937.93,452.72,1.21
 India,Karnataka,2025,Nuclear,5965.07,5.61,880.0,71.58,0.19
 India,Karnataka,2025,Other Fossil,0.0,0.0,25.2,0.0,0.0
@@ -2962,19 +2962,19 @@ India,Telangana,2024,Renewables,12513.08,17.92,7688.34,484.44,1.02
 India,Telangana,2024,Solar,6838.32,9.8,4842.1,328.24,0.69
 India,Telangana,2024,Wind,296.07,0.42,128.1,3.26,0.01
 India,Telangana,2024,Wind and solar,7134.39,10.22,4970.2,331.5,0.7
-India,Telangana,2025,Bioenergy,82.44,0.12,221.67,18.96,0.04
-India,Telangana,2025,Clean,14540.25,20.36,7896.74,533.95,1.13
-India,Telangana,2025,Coal,56915.12,79.65,11042.5,46670.4,98.87
-India,Telangana,2025,Fossil,56915.12,79.65,11042.5,46670.4,98.87
+India,Telangana,2025,Bioenergy,82.44,0.11,221.67,18.96,0.04
+India,Telangana,2025,Clean,14540.25,20.27,7896.74,533.95,1.13
+India,Telangana,2025,Coal,57174.58,79.72,11042.5,46883.15,98.87
+India,Telangana,2025,Fossil,57174.58,79.72,11042.5,46883.15,98.87
 India,Telangana,2025,Gas,0.0,0.0,0.0,0.0,0.0
-India,Telangana,2025,Hydro,6879.19,9.63,2495.27,165.1,0.35
+India,Telangana,2025,Hydro,6879.19,9.59,2495.27,165.1,0.35
 India,Telangana,2025,Nuclear,0.0,0.0,0.0,0.0,0.0
 India,Telangana,2025,Other Fossil,0.0,0.0,0.0,0.0,0.0
-India,Telangana,2025,Other Renewables,282.26,0.4,,10.73,0.02
-India,Telangana,2025,Renewables,14540.25,20.36,7896.74,533.95,1.13
-India,Telangana,2025,Solar,6997.34,9.79,5051.7,335.87,0.71
+India,Telangana,2025,Other Renewables,282.26,0.39,,10.73,0.02
+India,Telangana,2025,Renewables,14540.25,20.27,7896.74,533.95,1.13
+India,Telangana,2025,Solar,6997.34,9.76,5051.7,335.87,0.71
 India,Telangana,2025,Wind,299.02,0.42,128.1,3.29,0.01
-India,Telangana,2025,Wind and solar,7296.36,10.21,5179.8,339.16,0.72
+India,Telangana,2025,Wind and solar,7296.36,10.18,5179.8,339.16,0.72
 India,Tripura,2019,Bioenergy,0.0,0.0,0.0,0.0,0.0
 India,Tripura,2019,Clean,34.09,0.51,25.42,0.92,0.03
 India,Tripura,2019,Coal,0.0,0.0,0.0,0.0,0.0
